@@ -1,0 +1,39 @@
+500] DE PORl‘SMATIBU&
+P R o P: [ΧΠ.
+
+Est haec casus Porifinatis generalis, ultimi scilicet Libri 3.
+Porismatum Euclidis. “
+
+“ SI a dato punsto ad circulum pofitione datum ducatur ut·-
+“ cunque resta linea, ab altero vero punctorum in quibus
+“ circumferentiae occurrit, ducatur recta parallela pofitione
+‘,‘ datae, et a puncto in quibus prima ducta circumferentiae
+‘⁶ rursus occurrit, ad punctum in quibus altera duaa eidem
+“ rursus occurrit ducatur recia linea3 vel verget haec ad
+“ punctum datum, vel continebit datum angulum cum recia
+‘⁶ quae ad datum punctum vergit.'’
+
+· PARS 1. Qando red'ta jungens interfectiones ductarum et
+circumferentiae vergit ad punctum datum.
+-Sit punctum E datum, et ab eo ad circulum pofitione da·-
+tum BCD ducatur utcunque recta EFH, et ab altero puncto--
+rum in quibus circumferentiae occurrit, puta a puncto H,
+
+Ι ducatur recta HG parallela pofitione datae, occur-ratque cir-.
+
+cumferentiae rursus in G, et jungatur FG ; verget FG, ex hy-
+
+. pothefi, ad datum pt1nc³tum3 fit punctum hoc A, et a punc-'to
+
+F ducatur FK parallela positione datae, et propterea ipfi HG,
+occurratque rursus circumferentiae in K. Q'cmiam igitur a
+puncto E ducta est ad circumferentiam recta EFH, et a punc·
+to F ducta est FK parallela pofitione datae, 'juncta HK, ex hy-
+pothefi, tranfibit per punctum A. Rursus, quoniam a puncto
+E ducta est ΕΚ ad circumferentiam, et est KF parallela pofi-
+tione datae, recta quae jungit punctum F et reliquam intet- ·
+
+sectionem ipfius EK et circumferentiae transibit, ex hypothefi,
+
+ 
+

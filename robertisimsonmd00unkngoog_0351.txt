@@ -1,0 +1,32 @@
+PORISMATIBUS.
+
+ITHEO REMA est Propofitio ιιι qua aliquid proponitur
+demonstrandum. ·
+
+ΙΙ. Problema est Propofitio‘ m qua aliquid proponitur con-
+struendum, vel inveniendum.
+
+ΙΙΙ. Datum, five Propofitio de datis„ est Theorema ιιι quo
+proponitur demonstrare aliquid datum effe (secundum Defi-
+nitiones Datorum Euclidis) quod propofit'am quandam rela-
+tionem habet ad ea quae ex hypothesi data sunt.
+
+Datum etiam in forma -Problematis enuntiari potest,fi nimi-
+rum ea quae data effe demonstranda sunt, invenienda propo-
+nantur. Qod fi fiat, demonstratio Dati, ut Theorema pro·-
+
+pofiti, Analyfis erit Problematis3 Compositio autern Analyfi
+respondens erit Construffio et Demonstratio ProblematiS.
+
+Qoniam Pappi definitio Porismatis nimis generalis est,
+vice ejus fit haec, viz.
+
+IV. Porisma est Propofitio in qua proponitur demonstrare
+rem-aliquam, vel plures datas effe, cui, vel quibus, ut et cui-
+libet ex rebus innumeris, non quidem datis, sed quae ad ea
+quae data sunt eandem habent relationem, convenire osten-
+dendum est affeetionem quandam communem in Propofitione
+descriptam.
+
+S s α
+

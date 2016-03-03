@@ -1,0 +1,40 @@
+DE LOGARITH'MIS; 33
+
+logarithmus aequalis logarithmo rationis D ad K, hoc est ipfi
+LH [Prop. 1 1.]; est igitur EN aequalis ipfi LH, hoc est ex-
+··ceffui logarithmi EL divisoris K supra ΕΗ logarithmum die-
+videndi D.
+
+Et fi ipfis ΕΗ, ΕΙ, praefigatur fignum -, et auferatur - EL
+ab - EH, reliquum erit ΕΙ, - ΕΗ, hoc est LH; igitur regula
+pro Cas. 1. huic etiam inservit.
+
+Sit autem divisor K major div-idehdo D3 igitur quotiens
+M minor est unitate. Erit autem EN legarithmuS. ipfius M
+aequalis excessui HL legarithmi divi-
+
+dendi ΕΗ supra ΕΙ, logarithmum di- D Μ K A
+viseris K. Qoniam enim est A ad M, -..2.........-....;......
+, ut K ad D, erit logarithmus rationis H N L Ε
+
+Μ ad A, hoc est numeri M, aequalis ——u--ffi—
+
+logarithmo rationis D ad K, hoc est [Prop. 1 1.] ipfi HL, qui
+-est exceffus logarithmi EH, dividendi, supra ΕΙ, logarithmum
+divisoris,
+
+Si autem ipfis EH, EL praefigatur fignum —, et -- EL au-
+feratur a — EH, reliquum erit ·- HL, logarithmus scilicet ip-
+
+fius M. Qoniam vero M minor est· unitate, sumendus est ,
+
+numerus reciprocus ejus qui habet logarithmum HL in ta-
+bulis, ut antea dmum.
+
+In omnibus igitur cafibus logarithmus quotientis est excesa-
+sus logarithmi dividendi supra legarithmum divisoris, dum-
+modo logarithmis numerorum, qui unitate sunt minores, ap·-
+ponatur fignum — subn-aetionis.
+
+E
+

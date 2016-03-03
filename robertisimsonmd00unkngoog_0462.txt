@@ -1,0 +1,37 @@
+436 DE PORISMATIBUS..
+
+Tertia haec demonstrationis pars integra nunc tradita ests
+corrupta enim videtur effe in Graecis codicibuS, ut est apud
+Commandinum, et inepte · in ejus Commentario ad notam D
+
+explicata est.
+
+PROP. XLVI.
+
+Qae non habetur apud Commandinum, sed neceffaria est
+Porismati sequenti.
+
+“ SIT recia linea AB, et duo puncta C, D, quorum C est in
+“ AB produc‘ta, D vero inter A, B puncta3 fitque quod bis AB,
+‘⁶ DC continetur aequale quadrato ex AG, hoc est quadratis
+“ ex AB, BC et rectangulo AB, BC bis; erit quadratum ex
+‘⁶ DB aequale quadratis ex AD, BC.”
+
+Qoniam enim quod bis AB, DC continetur, hoc est quod
+bis AB, BD una cum eo quod bis AB, BC continetur aequale
+cst quadrato ex AC, hoc est qua-
+
+* dratis ex ΑΒ,Βο et rec‘tangulo A D ⁰ B C
+AB, BC bis3 auferatur commune
+
+quod bis AB, BC continetur, erit
+ieliquum, quod bis AB, BD continetur aequale quadratis ex
+
+AB, BC. Rursus auferatur commune, rectangulum scilicet
+AD, DB bis una cum quadrato ex DB 3 erit reliquum quadra-
+tum ex DB aequale reliquo, quadratis scilicet ex AD, BC.
+
+Et retrogradiendo ostendetur conversa.
+
+ 
+

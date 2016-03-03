@@ -1,0 +1,39 @@
+‚DE PORISMATIBUS. ··369
+
+est aequalis ipfi FDA, et propterea parallelae sunt CG, FD.
+Haec est Prop. 1 34. Lib. 7. Pappi, et Lemma ejus nonum
+in Porismata Euclidisf, plenius autem eam enuntiavimus. E-
+leganter Pappus Propofitionem demonstrat ut sequitur,
+jungantur BE, DC, FG3 erit triangulum DBE aequale tri-
+angulo DCE 3 commune apponatur triangulum ΒΑΕ, ergo
+-totum ABE toti CDA est aequale. Rursus quoniam BF paral-
+lela est ipss EG, triangulum BFE aequale est triangulo BFG;
+auferatur ABF, reliquum igitur AB E reliquo AGF aequale
+erit 3 sed triangulum -ABE est aequale triangulo ACD, ergo
+et ACD ipfi AGF qst aequale3 et communi appofito trian-
+gulo ACG‚ fiet totum triangulum CDG aequale toti CFG ς et
+est in eadem bafi CG ; quare ³ CG ipfi DF est parallela.
+· CoR. Et fi pofitione data fit resta DF, datumque fit punc-
+tum C, reliquis manentibus, tanget pumstum G interseffio ip·
+sarum BD, EG rectam CG pofitione datam, nam CG dufia
+est per datum pund‘tum C parallela rectae DF pofitione datae.
+Una ex converfis hujus Propofitionis est haec quae sequi-
+tur3 Si a duobus pundfis B, C inflecstantur duae restae BF,
+CF, et rursus ab iisdem inflefiantur BG, CG; ab occursu au·-
+tem F ducatur ad alterutrum ex secundi> inflexis, puta ad BG
+
+’ quae a Ριιηέὶο Β duaa est, reita FD parallela reliquae ex se- ’
+
+cundi) inflexis CG; et ab occursu G secundi) inflexamm du-
+catur ad eam ex primb inflexis quae a punRO C duCta est rec-
+ta GE parallela reliquae ex primi) inflexis BF 3 junRa DE pa·-
+rallela erit jund'tae BC.
+
+Qoniam enim parallelae sunt FD, GG, erit triangulum
+CDG aequale triangulo CFG3 auferatur commune CAG, erit
+
+reliquum CAD aequale reliquo GAF. . Et quoniam parallelae
+A a a ·
+
+⁸ 39· 1·
+

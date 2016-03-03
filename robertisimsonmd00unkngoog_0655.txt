@@ -1,0 +1,36 @@
+DE LOGARITHMIS. ως
+
+a B, D ininor unitate3 fit faRus M, cadit igitur M aff 'lae-
+vam ipsms A. ,Et quoniam unitas, seu A, est ad B, ut D ad
+fad'tum M, erit ratio B ad A eadem rationi M ad D3 igitur
+logarithmi harum rationum ’
+sunt inter se aequales. Sit EF D M Α Β·
+logarithmus rationis Β ad A, ———⁴—³'-——¹-‘
+et ΕΗ logarithmus rationis H N E F
+
+D ad A, EN vero logarith- ..............s..-...2-...-—n...
+mus rationis M ad A3 igitur, per Prop. 1 1. erit HN logatith·
+mus rationis M ad D ; et propterea EF est aequalis ipfi HN, ·
+quibus ex HE ablatiS, erit reliquum, excelsus sc. ipfius ΕΗ,
+supra EF, aequale reliquo EN 3 hoc est, excessus logarithmi
+ipfius' D supra eum numeri B aequalis est logarithmo fac-
+ti M.
+
+Et fi ΕΗ notetur figno -··, ut in praecedente Casu, erit sum·-
+ma logarithmorum numerorum B, D, scilicet EF - ΕΗ ae·-
+qualis ipfi — EN logarithmo fausti M.' Et quoniam logarithmi
+in tabulis aeque respondent numeris unitate majoribus quibus
+in· tabulis apponuntur, ac eorum reciproci53 igitur ad inve-
+niendum numerum M, qui unitate minor est, ope tabularum,
+sumendus est reciprocus numerus ejus eui convenit logarith-
+
+-mus numeri M in tabulis; quod in omni casu observandum.
+
+CAS, 3. Qando uterque numerus minor est unitate.
+
+Sit uterque numerus D, K minor unitate, et fit M fafius
+ab iisdem, qui propterea minor etiam erit unitate3 quare M
+cadit ad easdem partes unitatis A ad quas sunt D, K3 fint
+vero ΕΗ, EL, EN logarithmi numerorum D‚·K, M3 erit EN
+aequalis summae ipsarum ΕΗ, EL.
+

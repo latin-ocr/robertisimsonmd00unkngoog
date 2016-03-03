@@ -1,0 +1,35 @@
+2 D'E LOGARITHMIS..
+
+LEMMA 111.
+
+‘⁰ SI una ratio major fit altera, utraque vero. fit majoris ad
+“ minorem, et utraque composita fit ex eodem numero ratio-
+“ num inter se earundem; erit una ex rationibus ex quibus
+“ major ratio compofita est major una exiis ex quibus com-
+‘‚‘ pofita est reliqu-a ratio; nam fi eadem eflet huic vel minor
+‘⁴' ipsa, major ratio eadem effet minori, vel ipsi minor, quod
+“ fieri non potest?
+
+LEMMA IV.
+
+“ SINT· duae magnitudines, quarum AB minor et AC· ma-
+“ jor, potest series· deinceps proportionalium quarum prima
+“ est AB, et secunda AC continuari ita ut⁴ earum ultima ma·
+.‘..‘ jor fit-quavis magnitudine data AD?
+
+Sumatur BE multiplex ipfius BC quae majon fit BD, et ip-
+fis AB, AG, tertia proportionalis inveniatur AF et ipfis AC
+AF inveniatur tertia proportionalis, et ita deinoePS‚ donec tot
+sumantur rationes quarum prima
+
+-est AB· ad AG (μοι’ sunt partes iu A BCF, ΗΕΒ
+BE aequales ipfi BC5. fitque. AG ul· ,
+
+tima proportionalium Et quoniam
+
+·CF excessus tertiae et seeum-ae proportionalis major est Bc„
+exceffu secundae, et primae, et ita deinceps-‚3 erit magnitudo
+BG, quae continet tot harum. proportionalium differentias quot
+BE continet partes aequales ipfi BC, major· quam BE, et mul-
+to quam BD major.
+

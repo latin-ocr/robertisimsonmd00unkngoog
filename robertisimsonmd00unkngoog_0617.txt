@@ -1,0 +1,36 @@
+DE PORISMATIBUS. 587
+
+una cum quadrato ex ΟΕ, ut reciangulum AC, CB una cum
+quadrato ex ΟΕ ad eorundem exceffum3 et invertendo, est
+summa quadratorum ex ΚΟ, ΟΕ ad reciangulum DL, LE,
+ut exceffus rectanguli -AG, CB et quad-rati ex ΟΕ ad eorundem
+summam; igitur duplum quadratorum ex ΚΟ, ΟΕ, hoc est
+quadrata ex DK, ΚΕ fimul sunt ad rec’tangulum DL, LE ut
+duplum exceffus rectanguli AC, CB et quadrati ex ΟΕ ad rest-
+angulum AC, CB una cum quadrato ex ΟΕ. QE. D.
+
+P R Ο P. XCII.
+
+“ DATA pofitione recia AB quae circulo politione dato ΑΕΒ
+‘· occurrat in punctis A, B; data erunt duo puncia Ο, D a
+0‘ quibus inflexis utcunque ad circumferentiam rectis ΟΕ,
+'⁵‘ DE quae ipfi AB occurrant iu F, G; erit quadratum ex FG
+“ ad reciangulum AG, GB in data ratione quam habet recia
+*· a ad ipsam b. Recta autem AB non debet transire per cen-
+“ t1·um.''
+
+Puta verum effe Porisma3 igitur, ex hypothesi, quadratum
+ex FG est ad restangulum AG, ΟΒ, ut refta a ad ipsam b.
+Occurrat DE circumferentiae rursus in H, et CH jungatur
+quae ipfi AB occurrat in K; quoniam igitur a punctis C, D
+inflexae sunt CH, DH ad circumferentiam, rursus, ex hypo-
+thefi‚ erit quadratum ex GK ad restangulum AG, GB, ut a
+ad b; est igitur quadratum ex FG aequale quadrato ex GK,
+et recta FG aequalis ipfi GK; hoc est puncta Ο, D sunt ejus-
+modi, ut du& a puncto D rec'ta DHE utcunque ad circulum,
+junctae ΟΕ, ΟΗ aequalia intercipiant segmenta reciae AB in-
+ter' ipsas et restam DE. Si igitur ducatur DA, ea necess‘ario
+circulum in A continget, nam jund'ta CA nullum aufert seg-
+
+Eeee2
+

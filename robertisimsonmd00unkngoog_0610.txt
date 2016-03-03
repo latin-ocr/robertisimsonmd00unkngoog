@@ -1,0 +1,37 @@
+'580 ’ DE PORISMATIBUS.
+
+segmenta abscindunt adjacentia puncto K in quod perpendi-
+cularis a centro C ad AB cadit, fi CK occurrat junctae DE in
+N, DF vero et EF occurrant AB in Y, M ; erit rectangulum
+GY, YF ad ipsum HM, MF, ut reeta DN ad ipsam NE.
+P R o P. XCI.
+Qae est Theorema cujus enuntiationem tradit Dom. Mat·
+thaeus Stewart in vol. 1. libri dicti ‘⁶ Effays and Observa-
+’ “ tions phyfical, ὅτε. Edinburgh 17 54.”
+‘.‘ SIT AB diameter circuli pofitione et magnitudine dati,·' oc-
+“ curratque reeta CD ipfi normalis in dato puncto C; non
+‘⁴ autem fit C centrum circuli, et datum fit punclum D in resta
+· ξ’ CD3 fitque quadratum ex CD majus restangulo ACB, fi fit
+“ punctum C intra circulum 3, 'fi vero fit extra, fit quadratum
+‘⁶ ex CD minus rectangulo ACB ; producatur DC ad E, ut fit
+“ CF„ aequalis ipfi CD ; data erunt duo puncta F, G extra rec-
+“ tam DE, ut, fi ab ipfis inflectantur FH, GH ad punctum
+“ quodvis H in circumferentia, rectae DE occurrentes in K,
+‘⁶ L, erit summa quadratorum ex DK, ΕΚ ad restangulum
+‘⁴ DLE in ratione data.” “
+
+T heorema hoc est revera Porisma, quod ut sequitur inve-
+stigavi. .
+
+Cas, 1. Qando punctum C est intra circulum.
+
+Puta verum esse Porisma, occurratque reRa'DE circumfe-
+rentiae in punctis R, S3 quoniam igitur DE perpendicularis
+est ad diametrum AB, erit CR aequalis ipfi CS3 et quoniam,
+ex hypothefi, data est ratio summae quadratorum ex DK, ΚΕ
+
+. ad refiangulum DL,LE, data erit et ratio dimidii hujus sum-
+·9.aut10.2.mae, hoc est aratio quadratorum ex KC, CE ad rec'tangulum
+
+ 
+

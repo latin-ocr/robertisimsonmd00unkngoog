@@ -1,0 +1,44 @@
+Dp: LOGARITHMIS. 17
+Sed fi dicatur LM minor quam LN, sumpta ratione FG
+
+nd GO quae ex radi- Ι
+calibus composita, F H 0 K G
+proxime minor est ra· ““““““““““““““’“““““”’“““““““““-““-“““
+tione FG ad GK; fi· L Μ , Ρ N
+
+militer ostendetur -“““·-““······’··-·-“
+
+non poffe LM minorem effe quam LN ς aequalis igitur est LN
+logarithmus rationis FG ad GK ipfi LM, summae scilicet lo·
+garithmorum rationum FG ad GH, et HG ad GK.
+
+PROP. VII.
+
+“ SINT rationes FG ad GH, et HG ad GK, quarum neutra
+“ compofita est ex rationibus radicalibus; fit autem ratio FG
+'⁵‘ ad GK, quae ex illis composita est, ex rationibus radicali-
+“ bus compofi'tzu erit logarithmus rationis FG ad GK ae-
+“ qualis summae logarithmorum rationum F G ad GH, et
+“ HG ad GK.’'
+
+Si enim non fit aequalis summae huic, erit vel major, vel
+minor. Primo, fit logarithmus LM rationis FG ad GK ma-
+jor summa logarithmo-
+
+ 
+
+rum rationum FG ad F H P K G
+GH, et HG ad GK; et -·······-·¹-·'·—····-'····—-·---
+fit LN logarithmus ra- L N Q Ο Μ
+tionis FG ad GH, igi· -
+
+tur NM major est lo- A C B
+garithmo rationis HG .
+ad GK; fit hujus rati·- D E
+onis logarithmus ΟΜ,
+
+minor sc. quam ΝΜ, et componatur ratio affumpta AB ad
+C
+
+ 
+

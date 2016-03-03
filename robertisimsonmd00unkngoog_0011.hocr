@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./robertisimsonmd00unkngoog_0011.png"; bbox 0 0 4109 5609; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 755 1786 3349 1935">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 755 1786 3349 1935">
+     <span class='ocr_line' id='line_1_1' title="bbox 755 1786 3349 1935; baseline -0.002 -17"><span class='ocrx_word' id='word_1_1' title='bbox 755 1788 1844 1920; x_wconf 86' lang='lat' dir='ltr'>ROBERTI</span> <span class='ocrx_word' id='word_1_2' title='bbox 1975 1786 2823 1935; x_wconf 89' lang='lat' dir='ltr'>SIMSON,</span> <span class='ocrx_word' id='word_1_3' title='bbox 2949 1788 3126 1916; x_wconf 92' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_4' title='bbox 3192 1786 3349 1915; x_wconf 84' lang='lat' dir='ltr'>D.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 689 2146 3461 2719">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 689 2146 3461 2719">
+     <span class='ocr_line' id='line_1_2' title="bbox 689 2146 3461 2352; baseline -0.002 -29"><span class='ocrx_word' id='word_1_5' title='bbox 689 2224 1318 2325; x_wconf 82' lang='lat' dir='ltr'>OPERA</span> <span class='ocrx_word' id='word_1_6' title='bbox 1401 2146 2261 2352; x_wconf 69' lang='lat' dir='ltr'><strong>QUAEDAM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2342 2219 3461 2322; x_wconf 83' lang='lat' dir='ltr'>GEOMETRICA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1213 2620 3021 2719; baseline 0.001 -23"><span class='ocrx_word' id='word_1_8' title='bbox 1213 2620 1648 2697; x_wconf 72' lang='lat' dir='ltr'><strong>Pos‘r</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1765 2622 2504 2699; x_wconf 82' lang='lat' dir='ltr'><strong>MORTEM</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2616 2622 3021 2719; x_wconf 70' lang='lat' dir='ltr'>13:1th</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 823 2985 3367 3081">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 823 2985 3367 3081">
+     <span class='ocr_line' id='line_1_4' title="bbox 823 2985 3367 3081; baseline -0.001 -6"><span class='ocrx_word' id='word_1_11' title='bbox 823 2985 1432 3078; x_wconf 81' lang='lat' dir='ltr'>IMPENSIS</span> <span class='ocrx_word' id='word_1_12' title='bbox 1503 2987 2040 3081; x_wconf 85' lang='lat' dir='ltr'>PHILIPPI</span> <span class='ocrx_word' id='word_1_13' title='bbox 2113 2996 2637 3080; x_wconf 89' lang='lat' dir='ltr'>COMITIS</span> <span class='ocrx_word' id='word_1_14' title='bbox 2706 2990 3367 3079; x_wconf 88' lang='lat' dir='ltr'>STANHOPE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1463 3364 2783 3441">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1463 3364 2783 3441">
+     <span class='ocr_line' id='line_1_5' title="bbox 1463 3364 2783 3441; baseline -0.001 -4"><span class='ocrx_word' id='word_1_15' title='bbox 1463 3364 2783 3441; x_wconf 51' lang='lat' dir='ltr'>IMPRESSJ„</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

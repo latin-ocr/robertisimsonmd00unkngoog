@@ -1,0 +1,36 @@
+334 DE PORISMATIBUS.
+
+FD aequalis est ipfi DE, quarum aequales sunt FA, BE; reli-'
+qua igitur AD reliquae BD est aequalis. Data autem est AB,
+quare data est AD, punstumque D erit datum. Rectangulum
+autem AC, CB una cum spatio S aequale est quadrato ex DC,
+‘ 6. 2. hoc est ⁶ redtangulo AC, CB una cum quadrato ex DB3 igitur
+spatium S aequale est quadrato ex DB. Datumque propterea
+est spatium S.
+· 2Componetur ita.
+· Bifariam secetur AB m D3 erit D punstum, et quadratum
+exDB spatium inveniendum. Sumatur enim utcunque punc-
+tum C m AB produRa, erit re&-
+angulum-AC, CB una cum qua- F A D B E C
+drato ex DB aequale quadrato ex
+DC, ut constat ex 6. 2. vel ita ex
+analyss praecedente ostendi potest. Qoniam redtangulum
+«ι 3· 2‚AC, CB aequale estdreaangulo AB, BC una cum quadrato
+ex BC, commune apponatur quadratum ex DB, et roz-&angu-
+lum AC, CB una cum quadrato ex DB aequale erit re&angulo
+AB, BC, hoc est duplo refiangulo DB, BC, una cum quadra-
+ιι 4· 2. tis ex BC, BD, hoc est *³ quadrato ex DC. ·
+
+PROP. V.
+
+“- DATIS in reeta linea tribus punffis A, B, C, fi inter A, B
+
+‘⁶ sumatur utcunque punstum D, datum erit in reeta AC
+
+.“ pumstum quod faciet redtangulum contentum segmento in-
+
+“ ter ipsum et punemm D, et data quadam τεξὶὸ. aequale
+
+“ restangulo AD, DB una cum quadrato ex segmento inter
+‘D et tertium punctum Cl’
+

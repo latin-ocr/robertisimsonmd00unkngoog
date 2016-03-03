@@ -1,0 +1,42 @@
+228 APPENDIX.
+
+'In BE sumantur BG, BH, utraque aequans ipfi BC, et producatur BH ad K ita
+¹ut HK aequalis fit ipsi HE, et ad restam KE applicetur rectangulurn KFE aequale
+reitangulo HE, EG deficiens quadrato; describatur vero super BC stmicirculuS, et
+ducatur πᾶα ΒΝ ipfi BC ad rectos anguloe3 aequalis vero ipsi FE, et per N ducatur
+recta parallela ipss Bc, occurratque circumferentiae in A, et jungantur AB, AC et
+ducatur AD perpendicularis ad BC. Erit ABC triangulum inveniendum. hoc est erit
+AF aequalis ipfi AC, nam hoc ostens0, quia PE aequalis est rectae AD, erunt BA,
+AD, AC simul aequales datae restae BE.
+
+Qoniam enim rectangulum KF, FE aequale est ex Constmffione rectangulo
+HE, EG, commune addatur quadratum ex BG, eterit quadratum ex BG una cum
+refiangulo KP, FE aequale [6. 2.] quadrato ex BE. Apponatur commune qua-
+dratum ex FE, et quadratum ex BG una cum restangulo ΚΕ, EF hoc est una cum
+restangulo HE, EF bis, aequale erit quadratis ex BE, EF, hoc est [7 . 2.] quadrato
+ex BF una cum restangulo BE, EF bis, Auferatur commune, reclaugulum scilicet
+BE, EF bis, et quadratum ex BG, hoc est ex BC, una cum vediangulo ΗΒ, EF bis
+aequale erit quadrato ex BF. Qoniam vero reCkus est angulus BAC, erit quadratum
+ex BC aequale quadratis ex BA, AC, et restangulum BC, AD bie, hoc est restangu-
+lum ΗΒ, EF bis aequale erit restangulo BA, AC bis. Igitur quadratum ex BC una
+curn refrangul'o ΗΒ, EF bis aequale est quadratis ex BA, AC una cum rectangulo
+BA, AC bis, hoc est [4. 2.] quadrato ex BA, AC tanquam una reeta, qnod prop·
+terea aequale erit quadrato ex BF. Est igitur ‘BA una cum AC aequalis reftae BF,
+et ideo recta AC aequalis est ipfi AF, et propterea recta BE aequalis est rectis BA,
+Ae, AD fimul. QE. D.
+
+P R Ο Β. 111.
+Est praecedens generalius factum.
+
+“ DATIS in triangulo ΒΑΕ, in quo angulus BAC non est restas fied datur, ban Bc,
+‘⁸ et summa perpendiculi AD, et laterum BA, Ae, invenire triangulum.”
+
+Fadium fit, et producatur latus BA ad E, fitque BE aequalis perpendiculo et la-
+teribus fimul, et propterea data3 et fit AF aequalis lateri AC, erit igitur ΓΕ aequa-
+lis perpendiculo AD. Fiat utraque BG, BH aequalis basi BC. Qoniam igitur
+datus est angulus BAC, et est BF aequalis lateribus BA, AC fimul, habebit [per 7 6
+Dae] excessus quadrati ex BF supra quadratum ex base BC ad triangulum ABC,
+et propterea ad duplum ipsius ree-clangulum BC, AD, hoc est ΗΒ, FE, rationem da-
+tam. Excess‘us autem ille aequalis est, quia BG aequalis basi, refrangulo HF, PG ·
+[6. 2.] data igitur est ratio restanguli HF, FG ad ipsum ΗΒ, FE. Sit ratio haec
+

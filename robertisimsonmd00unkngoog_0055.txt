@@ -1,0 +1,37 @@
+LIBER PR1MU·S. 25.
+
+C'ONVERSA PROP. XVI.
+
+‘⁴ SI red'tangulum ABC aequale fuerit quadrato ex BD, erit
+’⁴‘ ut AB ad BC, ita quadratum ex AD ad quadratum ex DC.”
+
+Qoniam enim ut AB ad BD, ita BD ad DC, erit [19. 5.]
+ut AB ad BD, ita AD ad DC; ergo [22. 6.] quadratum ex
+AB est ad quadratum ex BD, hoc est [cor. 2. 20. 1.] recsta AB
+ad ipsam BC, ut quadratum ex AD ad quadratum ex DC. ‘
+
+Et ex hoc facile sequitur Prop. 16. ex absurd0.”
+
+'PROR XVII. COMM. 38. LEM. 23.
+
+“ SIT rursus ut AB ad BC, ita quadratum ex AD ad qua-
+
+“ dratum ex DC. Erit reetangulum ABC aequale quadrato
+“ ex BD.”
+
+Ponatur ipfi CD aequalis DE·; erit, dividendo, ut AC -ad
+CB, hoc est ut rofiangulum EAC ad redkangulum EA, BC,
+ita EAC restangulum ad reetangulum CDE. Rthangulum
+igitur EA, BC restangulo
+C DE :aequale erit. Et ob A C B D E
+proportionem ἓ, dividendo-
+que, ut AD ad DE, hoc est
+ad DC, ita DB ad BG. Ergo et reliqua AB ad BD reliquam²
+est ut DB ad BC. ReRangulumss igitur ABG quadrato ex BD
+est aequale. ,
+
+&AB scilicet est ad En, ut Dc ad CB.
+⁴ ·D
+
+ 
+

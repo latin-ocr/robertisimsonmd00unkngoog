@@ -1,0 +1,41 @@
+20 DE LIMITIBUS
+
+et propterea· ratio BC ad RA major est ratione BC ad AQ ex
+hypothesi autem potest ratio incrementi red’tae AD ad illud
+redtae AB minor fieri quacunque ratione quae major est ra-
+tione BC ad AQ fint igitur AG five LB et ΒΜ, earum ‘m-
+erementa‚ quae minorem habent rationem quam BC ad RA,
+et ut LB ad ΒΜ, ita fiat BC ad TA; igitur ratio BC ad TA
+minor est ratione BC ad RA, et erit TA major quam RA, et
+ΤΒ major quam RB, quare TM multo major est quam RB.
+
+, Est igitur ratio TM ad AE, hoc est ratio incrementi ALH ip-
+
+fius AC ad AN incrementum ipsius AF, major ratione RB ad
+ΑΕ, hoc est ratione data.a QE. D.
+
+P R O P. VIII. ἢ
+“ SI duae rationes variabiles fint semper inter se eaedem, erunt
+·.“ rationes quae ipsarum sunt Limites inter se eaedem.’'
+
+Rationis AB ad BC limes fit ratio AB ad BD, hoc est fit ratio
+AB ad BC semper minor ratione AB ad BD, sed quae poterit
+fieri major quavis ratio·
+
+ne quae minorestratione A Β ,1) Ε C
+AB ad BD3 vel contra -———-——·-2·-————-¹-¹--
+
+fit ratio AB ad BC sem-
+per major ratione AB ad
+
+BD, sed quae minor fieri
+
+a b'' dc
+...-..-...............=.-—..-..s...-...-
+
+⁸ Et patet eandem rationem limitem effe rationis decrementorum, quando
+latera diminuuntur.
+Huic propofi'tionL in priori tractatus huius exemplari MS. addita fuit alia
+
+etiam de reekangulo, casum quando latus unum augetur, alterum vero diminui·-
+

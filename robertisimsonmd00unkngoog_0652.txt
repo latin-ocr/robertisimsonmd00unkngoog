@@ -1,0 +1,42 @@
+26 DE LOGARITHMIS.
+
+¹ tatem, et ratione A ad D, ,quarum utraque est majoris ad mi-
+
+norem, erit, per Prop. ς, aut 6, 7, 8. lugat-ithmus rationis B
+acl-D aequalis summae loga-
+
+rithmorum rationum B ad Ῑ) Α Β
+A,etAadD; estantemEF ,
+lugarithmus rationis Bad A, H E , F
+
+five numeri B; et fimiliter ·
+ΕΗ est logarithmus numeri D, five rationis D ad A3 igitur
+HF ipsorum summa est logarithmus rationis B ad D.
+
+cAs. 3.· Qando uterque numerus minor est unitate.
+, -’ Sint numeri D, K, et ipsarum logarithmi EH,EL; et quo-
+niam ratio {mmeri D ad ipsum K compofi‘ta est ex ratione D
+ad A, quae est minoris ad majorem, et ratione A ad K, ma-
+joris ad minorem, quae major
+
+ 
+
+est reciproca ‘rationis D ad A, K , D Α
+hoc est major ratione A ad D;
+erit, per Cas. 2} Cor( Prop. 5. - L H Ε
+
+'legarithmus rationis D ad K ae-.
+
+'qualis exceffui logarithmi rationis A ad K, five logarithmi ip-
+stus K supra lugarithmum rationis D ad A, five logarithmum
+ipfius D. Est autem EL logarjthmus ipfius K, et ΕΗ loga-
+
+rithmus ipfius D, quorum exeeffus est HL, qui propterea est
+logarithmus rationis D a'd K.
+
+Co R. si logarithmis rationum minoris ad majorem, vel nu-
+-metorum qui sunt unitate minores apponatur fignum sub-
+-mfflonis ·- legarithmus rationis numeri cujusvis ad nume-
+
+rum minorem, invenietur auferendo, stcundm tegulas in Al<
+

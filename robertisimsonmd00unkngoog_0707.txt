@@ -1,0 +1,50 @@
+A'PPENDIX. Ὧι
+
+‘CB ln hoc ca'su est semidiameter circuli describendi, ut occursu circumferentiae ejus
+cum reita politione data DE inveniatur vertex trianguli, manifestum est debere CB
+vel aequalem effe reStae CD, vel ips& majorem ; in primo casu erit angulus ADB in '
+stmidrculo texitne, et re&angulum AD, 'DB ‘a lateribus aequale· redangulo a CD et
+diametro, hoc est a CD, AB, et circulus centro C intervatlo CB descriptus continget
+redtam DE in D3 fi vero CB major fuerit quam CD, circulus centro C per punEtum
+
+B descriptus secabit restam DE in duobus punaestis quorum alterutrum ut Qerit ·
+
+vertex trianguli AQ super bafim AB, quod habebit re&angulum a lateribus aequale
+‹reetangulo CD, AB ut in praecedente casu. In alterutro autem casn fi sumatur aliud
+quodvis triangulum super bafim AB et altitudinem aequalem habens reetae CD, hoc
+est habensverticem in recta DE, circulus drea hoc triangulum descriptus major erit
+circulo cujus centrum est C et qui tranfit per B, quoniam ille circulus habet cena
+trum in reeta CD vel in ea produfflt ad utrasvis partes et transit ctiam per punitum
+Β, quare semidiameter ejus major est resta CB3 reEtangulum igitur contentum a
+CD et semidiametro hoc majus est reetangulo CD, CB, et duplum illius majus du·
+plo hujuS, et propterea reitangulum a lateribus trianguli circa quod major circulus
+descriptus est majus est red‘tangulo a lateribus trianguli circa quod descriptus est cir—
+culus cujus semidiameter est CB, hoc est redtangulo CD, AB, quod redtangulum est
+propterea minimum. ’
+
+In casu autem in quo BC minor est quam CD, fiet Problema modo fingulari, fi
+posit& redh‘i magnitudine data BG a ρυιιὸὶο Β -ad rectam CD, ad ejus scilicet partes·
+ad quas est D, fuerit BG aequalis renftae GD, in quo casu circulus centro G per B
+descriptus continget reetam DE in D; erit enim triangulum ADB unicum quod in
+hoc casu solvet Problema, et redtangulum a lateribus AD, DB erit minimum, hoc
+est fi sumatur aliud quodvis triangulum ΑΕΒ balim habens AB et cujus verta} E est
+in resta DE, erit re&angulum a lateribus AE, EBmajua re&angulo AD, DB. Cir-
+-culus enim circa triangulum ΑΕΒ descriptus necess'ario cadit extra circulum qui con·—
+tingit metam DE in D, et propterea diameter ejus major est diametro hujuS, quare
+restangulum ΑΕ, ΕΒ majus est redtangulo AD, DB.
+
+componetur vero Problema ita.
+
+Sit AB bafis trianguli describendi positione et magnitudine data, fitque CD quae
+bifariam et ad tostos angulos secat AB altitudo trianguli3 et si spatium datum cui
+aequale debet effe reetangulum a lateribus aequale fuerit reEtangulo CD, AB, in casu
+in quo CD non major est quam CB, triangulum, aut duo triangula quae solvent Pro-
+blema invenientur ut dic'tum fuit. Si vero CD major sit quam CB, et spatium da·-
+tum aequale fuerit reuangulo AD, DB, triangulum ADB solvet problema. Si autem
+in casu in quo CD non major est quam CB spatium datum non aequale fuerit reetan-
+gulo CD, AB, erit hoc reaestangulo majus, quoniam reetangnlum CD, AB minimum
+ostensum fuit. Sit spatium datum aequale quadrato ex BH, et ut CD ad BH, ita fiat
+BH ad quartam ΒΚ bis3 et primo s1t spatium datum aequale quadrato ex BD quod
+
+B 2
+

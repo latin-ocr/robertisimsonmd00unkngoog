@@ -1,0 +1,38 @@
+DE PORISMATIBUS. φτ
+
+Ρ R O P. LI.
+Qae est Prop. 156. Lib.. 7. Pappi, et Lemma ejus 30.
+
+“ SIT circulus cujus diameter AB, et a quovis puncio cir-
+“ cumferentiae D ad ipsam perpendicularis agatur DE, duca-
+“ turque utcunque DF circumferentiae rursus occurrens in F,
+“ et ipfi AB in H 3 juncia vero EF producatur ut cum diame-
+“ tro in puncto G conveniat. Dico ut AG ad GB, ita effe
+“ AH ad ΗΒ.
+
+Jungantur enim DA,-AE‚ AF ; et quoniam DE perpendi-
+cularis est ad diametrum, erit angulus DAB aequalis ³ angulo ¹ 3.3.et4.1.
+BAE; sed angulus quidem DAB aequalis est angulo HFB in
+eodem segmento, angulus vero BAE aequalis b angulo BFG ¹’ 22· 3·
+exteriori scilicet quadrilateri AEFB in circulo, Angulus igi-
+tur HFB angulo BFG est
+aequalis; atque est an- -
+gulus AFB in semicir-
+
+culo retstuS. Ergo,ex lem-
+mate, ut AG ad GB, ita
+
+est AH ad ΗΒ.
+
+Lemma hoc non extat
+apud Pappum, est vero
+Propofitio quae conversa
+est Prop. 52· Lib. 6. Pappi, et a Commandino in Commenta-
+rio ad eam Propofitionem demonstrata habetur ut sequitur,
+paucis mutatiS.
+
+Per punc’tum B ducatur KL parallela ipfi AF, occurratque
+rectis FH, FG in K, L; quoniam igitur recstus est angulus ·
+
+ 
+

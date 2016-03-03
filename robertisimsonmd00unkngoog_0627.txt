@@ -1,0 +1,33 @@
+DE
+LOGARITHMIS.
+
+LEMMA Ι.
+
+“ Q] AEVIS ratio AB ad BC componi potest ex rationibus
+
+“ inter se iisdem, quarum numerus major fit numero quovis
+“ dat0.”
+
+Inter AB et BC inveni-atur media proportionalis BD, et:
+rursus inter AB, BD, et inter BD„
+BC, inveniantur mediae ΕΒ, FB, et A E. D, F C B
+ita deincep53 numerus rationum in ...ι-..ι-...ι-..ιῌ
+quovis casu duplus erit numeri ea-
+rum in praecedente 3 atque ita major fieri potest quovis nu-
+mero dato,
+
+LEMMA 11..
+
+“ SI fuerint duae rationeS‚ utraque majoris ad ‚umorem una
+“ autem earumeompofita fit ex rationibus quae inter se sunt
+“ eaedem, et reliqua etiam ex iisdem componatur; erit ea
+“ quae composita est majore numero rationum major ratione,
+“ quae 'componitur- 'ex minore numero earundem. Et vice
+“ versa, major ratio componetur ex majore numero earundem
+“ rationum3 quae quidem manifesta sunt.
+
+“ Contrarium autem eveniet fi utraque ratio fuerit mino·-
+
+“ ris ad majorem, ut patet.”
+A
+

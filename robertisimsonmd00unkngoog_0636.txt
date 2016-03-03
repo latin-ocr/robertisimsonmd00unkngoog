@@ -1,0 +1,43 @@
+’ 10 'DE LoGAmTHMis.
+
+ea quae ex iisdem composita proiime‘major est ratione KL ad
+LM; et fit ratio FG ad GP ex radicalibus composita proxime
+minor ratione FG ad GH; et ratio KL ad LQea quae ex iis-
+dem compofita proxime minor est ratione KL ad LM. Sit au-
+tem RS logarithmus rationis FG ad GN, et RT logatithmus
+rationis FG ad GP3 fit vero RV lo·
+
+garithmus rationis FG ad GH, qui F p H N G
+scilicet, per Def. 3. semper major est ·
+
+quam RT, et minor quam RS. Erit K QMO L
+etiam RV logarithmus rationis KL
+
+ad LM. Qoniam enim ratio FG ad ι R T V S
+
+GH eadem est rationi KL ad LM, et
+
+est ratio FG ad GN ex radicalibus
+
+composita proxime major ratione FG ad GH, ratio vero KL
+- ad LO ex iisdem composita, proxime major est ratione KL ad
+LM; erit, per Prop. 2. ratio FG ad GN, eadem rationi KL ad
+LO. Igitur, per Prop. 1. logarithmi harum rationum sunt
+inter se aequales· Est autem RS logarithmus rationis FG ad
+GN, quare et RS logarithmus est rationis KL ad LO. Simi-
+liter ostendetur RT logarithmum scilicet rationis FG ad GP,
+effe etiam logarithmum rationis KL ad LQ Qoniam igitur
+RV semper major 'est quam RT logarithmo rationis KL ad
+LQ et minor quam RS logarithmo rationis KL ad LO, erit
+[Des. 3.] RV logarithmus rationis KL ad LM.
+
+PROP. IV.
+
+‘⁴ Logarithmus majoris rationis major est logarithmo mino-
+“ ris; utraque autem ratio fit majoris ad minorem.''
+CAS. 1. Si utraque ratio compofita fit ex rationibus radica-
+
+ 
+
+ 
+

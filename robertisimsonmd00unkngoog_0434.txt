@@ -1,0 +1,40 @@
+408. DE PORISMATIBUS.
+
+ope Porismatis in Prop. 23. inveniatur praeterea reeta BEZ
+per Prop. 24. quae abscindat a reffis KL, ZY segmenta ae·-
+qualia NM, ZY datis punffls M, Y adjacentia, occurratque BZ
+restae CD in E, et AE jungatur quae occurrat ipfi CF in G3
+erit HG ad Yz, ut α ad β. Ex construetione enim est GH ad
+
+NM, ut α ad β, et itidem ex construetione, est NM aequalis
+ipfi ZY; igitur est GH ad ZY, ut α ad β.
+
+Porismati sequenti utilia sunt 0610 Lemmata quae habentur
+in Lib. 7. Pappi, in Prop. scilicet 136. et septem sequenti-
+bus, et quamvis fine iis Po'risma ostendi potest, ne tamen
+eorum usus Geometras diutius lateat, Lemmata ea hic tra-
+dere non inutile visum est. ⁸
+
+P R ΟΡ. XXVI.
+
+Ι Qae est 136. Lib. 7. Pappi, et Lernma ejus decimum in {³0-
+rismata ; est autem conversa Prop. 17. hujus·
+
+„ ‘⁶ IN duas rastas lineas BAE, DAG duae red'tae lineae ab eo-
+
+“ dem pumsto ducantur HD, HE, et in ipfis sumantur punc· .
+
+“ ta C, F3 fitque ut red'tangulum quod continetur DH, CB
+“ ad contentum DC, BH, ita reetangulum contentum EF,
+“ GH ad contentum EH, FG. Dico ree‘tam lineam effe quae·
+
+‘⁴ per pundla C, A, F tranfit.”
+
+Ducatur per H ipfi CA parallela KL, quae cum AB, Anin
+punstis L, K conveniat3 et per L ipfi AD parallela agatur
+
+LM, producaturque EH ad M. Deinde per K parallela ipfi
+AB ducatur ΚΝ, etDH ad N producatur. Itaque quoniam
+
+ 
+

@@ -1,0 +1,34 @@
+DE PORISMATIBUS. 405
+
+recia CF absciffum punosto H adjacens a r'ecta inflexa a punc-
+to A eandem habebit rationem quam β ad α, seu quam habet
+FX ad FC.
+Inflec‘tantur enim utcunque a pund‘tis A, Β ad rectam CD
+reciae AE, BE, occurratque AE ipfi CF in G, BE vero ipfi
+KL in N; abscindant autem ex CF, KL segmenta GH, NM
+Ρωιᾶἰε Η,Μ adjacentia. Erit GH ad NM, ut CF ad FX, hoc
+est ut α ad β. Occurrat enim BE ipsi CT in R, et jungatur
+GR. Qoniam igitur ut DA ad AB, ita est DF ad FT, erit³ ‘Pa 22.
+GR parallela ipfi AB3 ut igitur GF ad RT, ita est FC ad CT ς
+ut vero RT ad LN, ita est (ΤΒ ad BL, et ita, ex constructio·-
+ne, est) TC ad FX; erge, ex aequali, ut GF ad LN, ita (CF
+ad FX, et ita fac‘ta fuit) FH ad LM. Est igitur b GF ad LN, b 12‚2ut19,5;
+ut'GH ad NM, Qare absciffa GH est ad abscissam NM, ut
+α ad β.
+
+Ρ R Ο Ρ. XXIV.
+
+Qae est Lemma ad Problema in sequente Propofitione3 est
+autem Casus Loci 1 . Lib. 2. Apollonii de scaione Rationis,
+“ Ad duas restas pofitione datas AB, AC a dato pun-sto D
+“ extra ipsas, restam ducere DFE quae abscindet a pofitione
+‘⁶ datis segmenta ΕΒ, FC inter se aequalia, datis punc'tis B, C
+
+‘⁶ adjacentia.”
+
+Factum puta3 et ad AB ducatur DH parallela ipsi AC, po-
+'natur autem BG aequalis ipfi AC; data igitur est BG, da-
+tumque punctum G. Ponatur etiam HK aequalis ipfi HD,
+et quoniam ut ΕΗ ad HD, ita est EA ad AF, hoc est (quia
+EG aequalis est ipfi AF, et KH ipfi HD) ΕΗ ad· HK, ut· ΑΕ ’
+

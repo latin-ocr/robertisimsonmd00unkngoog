@@ -1,0 +1,38 @@
+4 ’ DE LIMITIBUS
+
+quantitas mutabilis semper major fuerit quantitate data, {ed
+ita minui poterit, ut minor fiat quacunque quantitate data
+quae major est prima quantitate data3 in utroque casu quan-
+titas prima data dicatur Limes quantitatis mutabilis.
+
+IV. Si ratio mutabilis semper minor fuerit quam ratio da-
+ta, 'sed ita augeri poterit, ut major fiat ratione quacunque
+data quae minor est ratione prima, data3 vel fi ratio mutabi-
+- lis semper major fuerit quam ratio data, sed ita minui poterit
+ut 'minor fiat ratione quacunque data quae major est ratione
+prima data3 in utroque casu dicatur ratio prima data Limes
+rationis mutabilis, in primo scilicet· casu dicatur Limes cres-
+centis rationis, in altero, Limes decrescentis rationis.
+
+P-ROP. Ι.
+
+“· SIT AB ree'ta data, AC autem semper minor fit ipsa AB,
+‘⁸ sed quae augeri poterit ita ut exceffus AB supra ipsam mi-
+“ nor poterit fieri quavis reeta data, hoc est fit AB limes cres-
+“ centis reeiae AC. ostendendum est, rationem aequalitatis
+“ limitem effe rationis AC ad AB; hoc est rationem AC ad
+“ AB, poffe majorem fieri quavis ratione data quae minor est
+‘⁵‘ ratio‘ne aequalitatis?
+
+Sit enim ratio data ea quam habet AD ad AB, est igitur a
+hypothesi AD minor AB:
+
+et quoniam data est AB A C D E Β
+
+et ratio quam ad ipsam¹
+
+habet AD, dabitur AD, quare et DB; poterit igitur AC augeri
+ita ut exceffus AB supra ipsam minor fiat reeca DB: augeatur
+
+ 
+

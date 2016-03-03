@@ -1,0 +1,39 @@
+444 DE PORIS·MAT113US.
+
+“ D, una cum red’tangulo a segmento ΕΒ inter punfium E et
+‘⁶ reliquum datum pandum B, et data quadam reffiss'
+
+Hujus porismatis duo sunt casus 3 duo enim sunt punem
+D, duaeque restae datae quae eidem satisfaciunt.
+
+CAs. 1. Qando pund'mm 'mveniendum D est m AB pro-
+duffi’ta ad partes B.
+
+Puta Porisma verum effe, fitque D punfium inveniendum
+et F rasta invenienda3 et sumatur utcunque puna-um E m
+AB produQa ad partes B, vel m ipso Β. ·
+
+Prima, fit punemm E'm AD produtsta ultra D·; igitur, ex
+hypothesi, ree‘tangulum AE, EC, hoc est resta-ngulum AE, CD
+una cum ipso AE, ED aequale· erit quadrato ex DE una cum
+reetangulo F, BE ; et ablato communi'ex DE quadrato, erit
+sscfflngulum AE, CD una-cum
+
+ipso AD, DE aequale re&angulo A C B D E .
+
+F, BE. Rursus· sumatur punRum .
+Β vice ipfius E, et, ex hypothefi,
+rediangulum AB, BC aequale erit quadrato ex BD; igitur,
+
+per primam partem Prop. 43. redtangulum AD, DC aequale ἢ
+
+erit contento utraque AD, DC et ipsa BD. Commune appo-
+natur reRangulum CD, DE una cum'ipso AD, DE, hoc est
+red'tangulum quod utraque AD, DC et DE continetur, erit
+totum, retstangulum scilicet AE, CD una eum ipso AD, DE
+aequale toti, reelangulo scilicet contento utraque AD, DC et
+ips& BE. Ostensum autem fuit rediangulum AE, CD una
+-cum ipso AD, DE aequale redbangulo F, BE,-quod propterea
+aequale erit contento utraque AD, DC et i ps& BE. Est igitur
+{edla F aequalis ipfis AD, DC fimul. Et quoniam quadratum
+

@@ -1,0 +1,23 @@
+S E C T I ΟΝ Ε.
+DETERMINATA ’
+
+LIB'ER TERTIUS,
+
+DUOBUS PRAEGEDENTIBUS
+A D 1> I T U S.
+
+PROBLEMA PR1MUM.
+
+, “ DATIS duobus punffis tertium invenire in resta quae per
+“ ea transit, quod faciet quadratum ex· segmento' inter ipsum
+“ et alterum ex datis punffis majus, aut minus quadrato ex
+“ reliquo segmento dato, quam in ratione, vel quod faciet
+“ quadratum ex segmento inter- ipsum et alterum ex datis
+“ punffis datum fimul eum eo ad quod quadratum ex reli-
+“ quo segmento datam habet rationem? · ’ · ·
+
+PROP. LXVI. PROB. Ι. EPITAGMA ι.
+“ DATIS duobus punffis A, B tertium C intei· ea invenite
+“ quod faciet quadratum ex Ac majus, aut minus quadrato
+‘⁶ ex· CB dato, quam in ratione, vel quod faciet quadratum
+

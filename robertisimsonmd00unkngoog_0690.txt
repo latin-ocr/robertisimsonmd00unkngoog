@@ -1,0 +1,33 @@
+³30 DE LI'MITIBUS
+
+Sit ratio B ad C semper minor vel major ratione b ad c,
+puta semper minor3 quoniam igitur est A ad B ut a ad b, ra-
+tio vero B ad C minor ratione b ad ες erit ex aequo ratio A
+ad C minor ratione a ad c. Ostendendum vero praeterea est,
+rationem A ad C majorem fieri posse quavis ratione, quae mi·-
+nor est ipsa a ad c. Sit igitur ratio a ad d minor ratione a ad
+c, unde erit d major c ; quare ratio h ad d minor erit ratione
+h ad c quae scilicet Limes est rationis Β ad C; ergo per defi-
+nitionem quartam, poterit ratio B ad C major fieri ratione b
+ad d: fiat itaque, et quoniam ratio A ad B fit fimul eadem
+rationi a ad ὸς erit ex aeque, ratio A ad C major ratione a ad
+d, hoc est ,ratione propofita: quoniam. igitur ratio A ad C
+semper est minor ratione a ad c,· poterit autem fieri majoe
+quavis ratione a ad d quae minor est ratione a ad c; erit per
+definitionem ratio α ad -c Limes rationis A ad C. QE. D.
+
+Con. Sint AC, BD reflangula quae data habent laxem A,
+133 Limes autem rationis incrementorum laterum variabili-
+um C, D, fit ratio ‘y ad δ ; erit Limes rationis incrementorum
+ipsorum AC, BD, eadem rationi qnae componitur ex radoni·
+bus A ad B et ’γ ad δ. nenotentnr enim incrementa quaevis
+fimul fafia laterum C‚' D, restis c, d ς. et sumatur κάποδυ-
+lum BC. Ipsorum igitur AC, BC inermem: erunt Ac, Be,
+quorum ratio semper eadem est rationi. A ad Β. Incrementa
+vero ipsorum BC, BD, sunt Bc Bd 3 ⁵quorum ratio est eadem
+ipfi c ad d 3 quare et Limes rationis Bc ad ΒΔ eadem est Li-
+miti ipfius c ad d, hoc est rationi γ ad δ, cui eadem fiat ratio
+Β ad E; et ptr hanc Prop. erit Limes rationis Ac ad Bd
+eadem rationi A ad E hoc. est ei qme compofita, «ἢ ex rati-⁶
+onibus A ad Β, et (B ad E, th est) γ· ad).
+

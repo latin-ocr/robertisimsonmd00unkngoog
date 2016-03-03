@@ -1,0 +1,43 @@
+DE PORISMATIBUS. 433
+
+Qoniam enim quod bis continetur AB, CD est aequale
+quadrato ex CB3 commune auferatur contentum bis BD, DC,
+erit reliquum, quod bis AD, DC
+continetur quadratis ex CD, DB ae· A ‚C D B
+quale. Rursus commune auferatur
+quadratum ex CD, reliquum xgitur,
+videlicet contentum bis AC, CD una cum quadrato ex CD ae·
+quale est ei quod fit ex DB quadrato. Commune addatur qua-
+dratum ex AC; ergo totum, quod ex AD quadratum, qua-
+dratis ex AC, DB aequale erit. .
+
+Et retrogradiendo ostendetur Pmpofitionis conversa.
+
+ 
+
+ 
+
+P R O P. XLIII.x ·
+
+' Qae est Prop. 149. Lib. 7. Pappi, et Lemma ejus 23.
+
+“ SIT recitangulum AB, BC aequale quadrato ex BD. Dico
+“ tria contingere, videlicet redangulum quidem quod utra·-
+“ que AD, DC, et BD continetur aequale effe redtangulo AD,
+“ DC; reetangulum vero contentum utraque AD, DC, et CB
+
+“ aequale effe quadrato ex DC; et teet-angulum contentum
+u utraque AD, DC, et AB, quadrato ex AD aequale.”
+
+Qoniam enim reaangulum AB, BC aequale est quadrato
+ex BD, erit, ob proportionem *‚ et
+tota ad totam †, et invertendO, com- A C B D
+ponendoque, ut utraque CD, DA ad
+DA, ita CD ad DB. Refiangulum
+igitur quod continetur utraque AD, DC et BD, reetangulo
+
+‘vmadnnmtnnadne †ADadDC,utDBadBC.
+I ii
+
+ 
+

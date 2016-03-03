@@ -1,0 +1,49 @@
+APPENDIX. 3
+
+LKC. quare triangulum LKC specie datum [44 Dat.]; data igitur est ratio KL aa
+Le, ut et ratio duplae ipfius KL, hoc est rectarum LK, Kc simul ad LC, et com-
+ponendo data erit ratio ipsiu-um LK, Kc, CL sumu} hoc est restae EC ad ipsam LC.
+-Et data est EC, data igitur est Le, et datum propterca erit segmentum LKC et vet*
+tex ejus K, utet perpendicularis ΚΜ.
+
+. Componetur hoc ita.
+
+Sumatur quaevis data resta ΝΟ, et super ipsam describatur triangulum isoscele-‘s
+-PNO cujus angulus NPO fit dato angulo aequali33 ct'ut perimeter trianguli PNO ad
+‘'bafim ejus ΝΟ, ita fiat EC ad quartam LC; ct super LC describatur segmentum cir*-
+·culi capiens angulum aequalem angulo NPO, et a K vertice segmenti ducantur ΚΒ,
+‘XC, et KM perpendicularis ad LC, erit LKC triangulum inveniendum. Aequiangula
+«enim sunt triangula Isoscelia KLC, PNO quae habent angulos ad ipsorum vertices
+K, Ρ aequq1e53 ut igitur perimeter trimguli KLC ad ipsius balim LC, ita (est peri-
+meter trianguli PNO ad basim ipsius ΝΟ, et ita, ex construet-ione, est) recta EC ad
+ipsam Le, et propterea est perimeter trianguli KLC aequalis reciae EC datae scilicet
+perimetrO. Et ficompleatur parallelogrammum KMCQmanifestum est reclam' QK
+quae parallela est bafi -Lc contingere circulum LKC in vertice K, transsit enim ΚΜ
+per ejus centrum [cor. 1 . 3 .] et rcftus cst angulus QM.
+
+Inquirendum autem est an perpendicularis ΚΜ major aut minor fit perpendiculari
+in quovis alio triangulo quod habet angulum ad verticem aequalem dato angulo
+LKC, et perimetrum aequalem datae perimetro EC. ·
+
+Sit aliud istiusmodi triangulum ABC3 patet basim ejus BC necessario majorem
+vesse bafi LC, nam fi minor efflet, segmentum circuli super ea descriptum capiens nn·-
+gulum ipsi LKC aequalem caderet intra segmentum LKC, et propterea latera cujusvis
+trianguli in segmento super bafi minore descripto simul minora essent reflis LK, Kc,
+quare et perimeter ejus minor ess'et perimetro trianguli KLC, hoc-est minor data recta
+Ec. Est igitur baiis BC major bafi LC, et quoniam] perimetri triangulorum ABC,
+KLC, ex hypothesi, sunt aequales, erit summa laterum BA, AC minor summa ipso-
+rum LK, ΚΟ. Summa autem laterum cujusvis trianguli super bafi LC quod verticem
+habet in recia Q< vel supra eam major est summit laterum LK, Kc, et multo magis
+fi triangulum fuerit super bafim majorem BC, et vertex ejus in eadem reclei vei.
+supra eam. {gitur vertex trianguli super bafi BC quod datum habet angulum ad
+verticem et datam perimetrum, neceffirio cadet infra restam Q, et ideo KM alti·
+tudo trianguli LKC est maxima.
+
+Componetur Problema ita.
+
+Sit NPO datus angulus cui angulus ad verticem trianguli inveniendi debet ess‘c
+aequalis, et fit CR altitu'do data, et CE data perimetcr ejusdem trianguli, et ponatur
+‘CR ad reftos angulos ipsi EC. Inveniatur autem triangulum LKC ut dit-”tum fuit.
+
+A 2
+

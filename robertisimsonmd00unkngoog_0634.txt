@@ -1,0 +1,42 @@
+3 DE LOGARITHMI&
+
+ex radicalibus compofita proxime major est ratione FG ad
+GH, erit KP [Def. 3.] major KQquae Logarithmus ponitur
+rationis FG ad GH 3 quod fieri non potest. Nullus igitur est
+Logarithmus rationis FG ad GH praeter KL, Si vero pona-
+
+“ tur KQminorem effe quam KL, idem eodem modo osten-
+detur.
+
+'PROP. 1.
+
+‘⁴ 81 duae rationes fiat-inter se eaedem, et una earum compo-
+“ natur ex rationibus radicalibu53 Logarithmi harum ratio-
+
+“ “ num erunt inter se aequale5.’'
+
+Qoniam enim rationes sunt inter se eaedem, compofitae
+erunt ex eodem numero earundem rationum, ut patet; quare,
+per Def. 2. earum Logarithmi continebunt eundem numerum
+partium radicalium; et propterea erunt inter se aequales· .
+
+PROP.11.
+
+·“ SIT ratio FG ad GH eadem rationi KL ad LM, fitque alia
+“ ratio A ad B 3 non autem compofita fit ratio FG ad GH ex ⁸
+·“ rationibus quarum unaquaeque eadem est rationi A ad B,
+“ unde neque ratio KL ad LM ex iisdem componatur. Sit
+“ autem ratio FG ad GN, ea quae ex rationibus A ad B com-
+“ pofita proxime major est ratione FG ad GH; fitque ratio
+“ KL ad Lo ea quae ex iisdem compofita proxime major est
+“ ratione KL ad LM; erit ratio FG ad GN eadem rationi
+“ KL ad LO. Et fimiliter fi sumantur rationes ex praediffls
+“ compofitae quae proxime minores sunt FG ad GH, et KL
+‘⁴ ad LM, erunt rationes illae inter se eaedem.''
+
+ 
+
+ 
+
+ 
+

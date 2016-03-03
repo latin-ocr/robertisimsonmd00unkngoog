@@ -1,0 +1,38 @@
+16 DE LOGARITHMIS.
+
+ratione F G ad GK ; et fit LP logarithmus rationis PG ad GO.
+Et quoniam [Def. 3.] LN, logarithmus sationis FG ad GK,
+cadit inter logarithmum LP rationis F G ad GO, quae proxi-
+me major est ratione FG ad GK, et logarithmum rationis
+quae ex radicalibus compofita proxime minor est ratione FG
+ad GK, erit NP minor exceffu horum logarithmorum qui est
+una partium radicalium, et propterea minor est NM3 multo
+igitur NP minor est quam NM. Igitur LP, logarithmus sc.
+rationis FG ad GO,
+
+minor est quam F H , Ko G
+LM, summa se. lo· ···-··-··-··²····—··-·-··-³—¹···—·-—
+
+garithmorum ra- L N P M A C B
+tionum FG ad GH, ·“““““-“-·’““““““““-··“ ’“““··-·-··-·”··-·
+et HG ad GK. D E
+
+Qoniam vero ra-
+
+tio FG ad GO, quae est compofita ex rationibus radicalibus,
+eadem est rationi compofitae ex rationibus FG ad GH et HG
+ad GO, quarum ratio FG ad GH compofita est ex rationibus
+radicalibuS, reliqua ratio HG a'd GO compofita erit ex iis-
+dem. Igitur, per Prop. 5. hujuS, logarithmus LP rationis FG
+ad Go est aequalis summae logarithmorum rationum FG ad
+GH, et HG ad GO. Est autem LM summa logarithmorum
+rationum FG ad GH, et HG ad GK. Et quoniam LP minor
+est LM, erit prima summa minor reliqua, et, ablato commu-
+ni logarithmo rationis FG ad GH, erit reliquus logarithmus
+rationis HG ad Go minor reliquo logarithmo rationis HG
+ad GK. Igitur [Cor. 3. Prop.4.] ratio HG 'ad GO minor est
+ratione HG ad GK; sed et major, quod fieri non potest. Non
+igitur est LM major LN.
+
+ 
+

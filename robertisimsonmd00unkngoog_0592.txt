@@ -1,0 +1,40 @@
+⁸ Pr. 82.
+
+,562 DE PORISMAT113U-S.
+
+torum ex DF, FE ad triangulum DFE, hoc est in ratione data.
+Et haec est Fermatii Propofitio quinta.
+
+Ῥ R O P. LXXXVI.
+
+“ SIT rec’ta AB harmonice secia in C, D, hoc est ut BA fit ad
+“ AC, ut BD ad DC 3 et a quovis. puncto E ducantur EA, EC,
+“ ED, EB; recta GF utcunque ipfis occurrens harmonice se-
+“ cabitur in punctis occursuS.”
+
+Rectis EA, EC, ED, ΕΒ occurrat GF in punc‘tis F, H, K,
+G, et per H ducatur LHM paral-
+lela ipfi ΕΒ, et occurrat reffis EA,
+ΕΙ) in L, M. Est igitur, propter
+parallelas, GF ad FH, ut EG ad LH,
+hoc est ut EG ad HM, quia LM
+bifariam secia est ²¹ in H; est au-
+tem EG ad HM, utGKadKH; ut A F L · Β
+igitur GF ad FH, ita est GK ad KH. ’
+
+  
+
+Ρ R O P. LXXXVII.
+
+“ SIT circulus cujus diameter OCP, et ixi ipsa sumantur duo
+“ puncta K, N ad easdem centri C parter„ quae faciunt CK,
+“ CO, CN proportionales3 fi per alterutrum punctorum K,
+“ N, puta N, ducatur ND ad rectos angulos ipfi CN, et per
+
+“ reliquum punctum K ducatur utcunque recia linea ΚΕ quae
+“ occurrat ipfi ND in E, et circumferentiae in QR punffi53
+
+“ erit Q ad ER, ut Q< ad KR.”
+
+ 
+

@@ -1,0 +1,39 @@
+DE PORISMATIBUS. 325
+
+PROP. I.
+
+‘⁸ DATA pofitione reeta AB, et circulo CD’ positione et
+u magnitudine dato, datum erit punstum per quod fi duca·- ·
+“ tur utcunque reeta linea quae restae AB circuloque occur·-
+“ rat, datum erit reehngulum contentum segmentis ductae
+ιι inter punaum inveniendum, et puntsta occursus-„⁹⁹
+
+L E M M. A. .
+Sit triangulum ABC testum habens angulum ad A, fi bi· ·
+
+fariam secetur BC in D, et jungatur AD; erit BD aequalis ipfi · “
+
+DA. Est conversa partis primae 31. Prop. 3. Euclidis.
+
+Ducatur enim DE parallela ipfi AC, et DF ipfi AB. Ae·-
+qualis igitur est angulus DBE angulo CDF, ut et angulus
+BDE ipfi DCF, et aequalia sunt latera BD,
+
+DC quae aequalibus adjacent angulis; ae- A
+
+qualis igitur est reeta BE rectae DF, hoc Ε F
+
+est ipfi EA. Et in triangulis BED, DEA
+
+communis est DE, et anguli ad E resti, Β 1) C
+1·er enim est angulus ad A. Bafis 1gi- '
+’tm- BD aequalis est bafi DA. Hoc etiam sequitur ex Cor.
+Pr. 5. Lib. 4. Eucl. ·
+
+Sit jam E puncstum‘ m Porismate inveniendum, et dueta
+utcunque per E ressa EF occurrat reetae AB ιιι F, et circulo
+in G; igitur, ex hypothefi, datum est. reekangulum FE, EG.
+Ad AB ducatur perpendicularis EH‚ occurrat'que circumfe2-
+tentiae in K, et KG jungatur3 igitur, rursus ex hypothefi,
+datum est teczangulum HE, ΕΚ, quod propterea aequale est Ι
+

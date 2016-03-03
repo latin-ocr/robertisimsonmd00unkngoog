@@ -1,0 +1,42 @@
+DE LOGARITHMI‘S. n
+
+libus„ numerus rationum ex quibus composita est major ra·-
+tio, major est [Lem. 2.] numero earundem, exquibus minor
+ratio composita est3 et propterea logarithmus majoris rationis
+major est logarithmo minoris, ut patet ex Def. 2.
+
+Cas. 2. Si una ratio, viz. ratio KL ad LM compofita fit ex
+rationibus radicalibuS, reliqua autem ratio FG ad GH ex iis-
+dem non fit compofita. Sit ratio FG ad GN eadem rationi
+KL ad LM; et prime, fit ratio KL ad LM, hoc est ratio FG
+
+ad GN, quae ex rationibus
+
+radicalibus est composita, F N H N “ G
+vel ea est quae proxime ma· ......-....-...........2.....„...·..............
+jor est ratione FG ad GH, K M L
+
+vel est major &A quae proxi-—
+me major est3 et in primo Casu, per Def. 3. in altem, per
+cas. 1. et De‘f. 3. legarithmus rationis FG ad GN, hoc est ra-
+tionis KL ad LM [Prop. -1 .] major erit logarithmo rationis
+FG ad GH. Si veto ratio KL ad LM minor fit ratione FG ad
+G H, similiter ostendetur logarithmus rationis KL ad. LM
+minor logari'thmo meionis FG ad GH.
+
+cis. 3„ Si vem neutra rationum fit compofita ex rationi-
+
+bus radicalibus, fit FG ad GH minor ratio, et KL ad LM
+major3 et rationi
+madLMe-:adem 1³ Ο Η PN G
+
+fit razio- ΕΟ ad ·····-·-·····-·-····⁴····-·⁴····‘-·*·-· κ
+GN. Igitur ratio K Μ L
+
+FG ad· GN major
+est ratione FG qd· GH, et propterea GN minor est quam GH.
+[10. 5-..] Componatur vero ratio assumpta AB ad BC ex rati-
+
+onibus inter se iisdem, quarum. una quaevis minor- est tatione
+Β 2
+

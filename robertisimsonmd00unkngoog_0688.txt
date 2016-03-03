@@ -1,0 +1,29 @@
+28 DE LIMITIBUS
+
+ratione ab ad ac ; erit ratio ab ad ac Limes rationis AB ad AC.
+Similiter ostenditur propofitio in casu reliquo. QE. D.
+
+P R O P. XIII.
+
+“ SI rationis AB ad BC Limes fit ratio ab ad bc, hoc est fi
+“ ratio AB ad BC semper minor fit ratione ab ad bc, sed quae
+“ major fieri potest quacunque ratione data, quae minor est
+‘⁶ ratione ab ad bc; vel fi ratio AB ad BC semper major fit,
+
+“ &a Componend0‚ rationis AC ad CB LimeS erit ratio ac
+“ ad cb.''
+
+Nam quoniam ratio AB ad BC semper minor est ratione ab
+ad be, componendo ratio AC ad CB semper minor erit ratione
+ac ad cb: ostendendum vero restat,
+rationem AC ad CB majorem fieri A ’ Β Β C C
+poffe quacunque ratione data, quae -···-··-¹--'··-·-¹·-
+minor est ratione ac ad ὠς fit ratio d b c
+data ac ad cd minor ratione ac ad cb;
+et dividendo ratio ad ad dc minor
+erit ratione ab ad bc; igitur ratio AB ad BC major fieri potest
+ratione ad ad dc3 fiat, et deveniat ratio AB ad BC ; igitur
+componendo ratio AC ad C Β major erit ratione ac ad cd hoc
+est ratione data, et propterea rationis AC ad CB Limes est
+ratio ac ad cb. Et fimiliter in reliquo casu. QE. D.
+

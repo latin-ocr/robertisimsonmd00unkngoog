@@ -1,0 +1,32 @@
+π 'DE L1M1T1113Us
+
+PROP. IX.
+
+“ Sint A et B quantitates variabiles utcunque ex assiis quan·-
+“ titanibus compofitae, sint autem in omni casu aequales, et
+‘¹‘ fit C quantitas quaevis alia variabilisg et ratio α ad γ limes
+‘⁶ fit rationis quam incremenmm ipfius Ahabet ad incremen-
+⁴‘ tum quantitatis C, ratio veno β ad γ limes fit rationis in·
+‘⁶ ermentorum ipsarum B, C 3 erit· α aequalis ipfi β.”
+
+Nam quonia-m inter se aequales sunt quantitates A, B, ae-
+qualia erunt in omni casu ipsarum incrementa, igitur incre·
+mentum ipfius A est ad incrementum ipfius C, ut incremen-
+tum quantitatis B ad idem ipfius C incrementum3 rationes
+vero quae earundem rationum sunt Limites inter se sunt eae·-
+dem per Prop.'8. et est ratio α. ad γ Limes rationis inerementi
+ipfius A ad incrementum ipsius C, et ratio'ss ad γ Limes ra-
+tionis incnementi ipfius Β ad incrementum ipfius C; ergo est
+α ad γ ut β ad γ, ideoque α aequalis est ipfi β. QE. D.
+
+Exemp. 1. Sit reeiangulum A,B aequale reaangulo C‚D;
+fintque latera A, B, C, quantitates variabiles, latus vero D fit
+invariabiliS, et fit A, Ε aliud retstangulum >cujus latus E est
+quantitas invariabilis: ratio vero α ad β fit· Limes rationis
+⁸incrementorum laterum A, B, et α. ad 'y Limes rationis incre-
+mentorum laterum A, C, erit [per Prop. 7.] ratio Ass3 B,a
+fimul, ad E,a Limes rationis inerementi ipfius A, B; ad incre-
+mentum ipfius A, E; est aunem ratio Ds'r ad Ess Limes rati·-
+onis incrementorum ipsorum C,D, A,E 3 ergo per hanc Prop.
+est A,E una cum Β,α aequale ipfi Da?-
+

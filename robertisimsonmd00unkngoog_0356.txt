@@ -1,0 +1,35 @@
+,με -nn PoR13MAT1BU3..
+
+· Ex hoc etiam exemplo patet Locos etiam deficere hypothefi
+a Theoremate Locali.. Si enim hypothefis praecedentis Theo-
+rematis Localis ita diminuatur ut nihil de circulo in ea dice·-
+netur, sed hoc tantum, viz. Si per datum punctum E utcun-
+que ducatur recta linea FEG cujus alter terminus F tangat
+· renam positione datam, fueritque reetangulum FE, EG dato
+, spatio aequale, et proponatur invenire lineam quam reliquus
+terminus G tanget, patet Theorema jam in Locum converti.
+‘Unde pappus hujus generis Porismatum, cui scniqet definitio
+
+· j-uniorum convenit, Locos ipsos speciem effe affirmat.
+
+PROP. II.
+
+“ DATO punctu, 'datoque positione et magnitudine circu103
+‘⁶ fi a. quovis in circumferentia puncto ducatur recia ad
+5‘ punctum datum, datum erit aliud punctum ad quod fi ab.
+‘⁶ eodem in circumferentia punsto ducatur recia linea, ad
+‘³‘ hanc primo ducta datam habebit rationem.”
+
+Sit datum punctum A, et circulus datus fit BCD; et puta.
+Porisma verum effe, et punctum E fit illud quod invenien-
+dum est. Si igitur a puncto quovis F in circumferentia du-
+cantur FA, FE, data erit, ex hypothesi, ratio quam habet AF ⁸
+ad FE. Jungatur ΑΕ, et ad ipsam productam ducatur FG
+quae faciat angulum EFG aequalem ipfi EAF; quoniam igi-
+tur aequiangula sunt GAF, GFE triangula, ut AF ad FE, ita
+erit AG ad GF, et GF a'd GE; proportionales igitur sunt AG,
+
+‘aem 20.⁶.GF‚ GE, quare ² ut quadratum ex AG ad, quadratum ex? GF, ‘
+
+ita est reeta AG ad ipsam GE 3 unde et quadratum ex AF est*
+

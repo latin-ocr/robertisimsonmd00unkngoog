@@ -1,0 +1,37 @@
+DE LoGAR1THM1s 3
+
+LEMMA V.
+
+“² QJ AEVIS ratio AB ad BC componi potest ex rationibus
+‘⁶ inter se iisdem, quarum una minor fit quavis ratione data
+'¹³‘ DB ad BC.'’
+
+Fiat series deinceps proportionalium, quarum prima e'st
+
+BC, et secunda BD, et continuetur ita ut ultima earum ΒΕ.
+major fit quam BA, quod fier-i potest per Lemma 4. et com-
+ponam-r, quod fieri potest per Lemma 1. ratio AB ad BC ex
+rationibus inter se iisdem, quarum numerus major fit nume-
+'to rationum, quae eae-
+dem sunt rationi DB ad E A F D G C B
+BC, ex quibus compofi- ...-..........-1...=.....-......·.-2..2..-...-..
+'ta est ratio ΕΒ ad BG.
+Sit ratio AB ad BF una ex iis ex quibus compofita est rat‘m
+AB ad BG3 fit autem ratio AB ad BG ea ex hisce composita,
+quarum numerus idem est cum numero rationum ex quibus
+compofita est ratio ΕΒ ad BG.
+
+Qoniam igitur ratio AB ad BC eompofita est ex majori
+numero earundem rationum quam ratio AB ad BG 3 erit ra-
+tio AB ad BC major ratione AB ad BG, per Lemma 23 est
+igitur BC minor quam BG, [10. 5.] et est ΕΒ major quam
+AB, igitur ratio ΕΒ ad BG major est ratione AB ad BG 3 et
+compofitae sunt hae rationes ex eodem numero rationum, qua-
+re [Lem. 3.] ratio DB ad BC una exiis ex quibus compofita
+est ratio ΕΒ ad BC major est ratione AB ad BF, quae una est
+ex iis ex quibus eompofita est ratio AB ad BG 3 ratio autem
+AB ad BC compofita est ex hisce, hoc est ex rationibus quae
+
+minores sunt ratione data DB ad BC.
+A 2
+

@@ -1,0 +1,36 @@
+‘DE LOGARITHMla ας
+
+PROP. XI„
+
+'⁸‘ SI sumantur a pumsto E logarithmi duorum quorumvis
+“ numerorum, ut eorum qui locati sunt ad punsta B,c (qui,
+u brevitatis gratia, in sequentibus vocentur numeri B, C‚)
+“ qui logarithmi fint EF, EG3 distantia GF inter ipsorum
+“ terminos erit logarithmus rationis numeri B ad numerum
+
+⁴ss (20⁹,
+
+clas. 1. Qando uterque numerus est major unitate.
+
+Sint numeri B, C, et ipsorum logarithmi EF, EG; et quo-
+
+niam ratio numeri Β ad numerum C composita est ex ratione
+B ad numerum, five unitatem, et ratione A ad C, quarum
+prima est ratio majoris ad
+· minorem, reliqua vero est ra· · » Α C Β
+tio minoris ad majorem3 e·- ....-..-.-.2.-....................—-...
+rit logarithmus rationis B ad E G F
+C, per Cor. Prop. 5. vel Cor. ..............2......-........
+Prop. 8. aequalis exceffui logarithmi rationis B ad A, hoc est
+-logarithmi numeri B supra logarithmurh rationis Aad C, hoc
+·est supra logarithmum numeri (ξς est autem EF logarithmus
+numeri B, et EG legarithmus ipfius C, GF vero est horum
+-excefl'us, qui propterea est logarithmns rationis B ad C.
+
+CAs. 2. nando alter numerus major est unitate, reliquus
+-vero minor.
+· Sit numerus B major unitate, numerus vero D ad contra-
+·rias partes ipfius A, minor fit unitate; et quoniam ratio nu-
+-meri B adipsum D compofita est ex ratione B ad A, · five uni·
+’ D
+

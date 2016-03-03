@@ -1,0 +1,38 @@
+26 DE LIMITIBUS
+
+nis incrementorum ipsarum κ’, x. Et fi a} vel dx dicatur an·-
+tecedens rationis incrementorum ipsarum x, x¹³3 erit ruff-¹³2· vel
+nae-'dx consequens ejusdem rationis, Et haec uxr-¹5: vel
+ευτ’-’ὼε est illud quod improprie vocatur fluxio vel differentia
+ipfius κ’.
+
+PROP. XI.
+
+“ S Ι ratio AB ad BC Limes fit rationis variabilis DE ad 1⁴:1³3
+“ invertend0‚ erit ratio CB ad BA Limes rationis F E ad
+66 ΕΙ).” ”
+
+Primo, Sit ratio DE ad EF semper minor ratione AB ad
+BC, sed quae poterit fieri major quavis ratione quae minor est
+ratione AB ad BC. Invertendo igitur erit ratio FE ad ΕΙ) sem-
+
+-per major ratione CB ad BA: prae-
+
+terea vero ostendendum est poffe ra· A B C G
+tionem FE ad ΕΙ) minorem fieri qua- --·-··”---“-·
+vis ratione, quae major est ratione CB D E e F· f
+
+ad BA. Sit ratio GB ad BA major
+
+ipsa CB ad BA 3 et invertendo erit ra-
+
+tio AB ad BG minor ratione AB ad BC: ex hypothefi autem
+poterit ratio DE ad EF major, fieri quavis ratione quae minor
+est ipsa ratione AB ad BC ; poterit igitur ratio 'DE ad EF ma·-
+· jor, fieri ratione AB ad BG: fiat, et fit ratio De ad 9⁸3 ergo
+invertend0‚ ratio fi ad cD minor erit ratione GB ad BA. Et
+ut ostensum fuit est ratio fe ad eD semper major ratione CB
+
+ad BA. Qare [Def. 4. se. limitis rationis] ratio CB ad BA
+Limes est rationis se ad eD, seu FE ad ΕΙ). QE. D.
+

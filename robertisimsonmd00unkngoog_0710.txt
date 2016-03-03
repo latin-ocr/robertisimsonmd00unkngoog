@@ -1,0 +1,36 @@
+αφ’. APPENDIJL
+
+PRoB. V.
+
+⁴⁴ DATIS duobus punffls A, B ab ipsis ad datam pofit-ione restam CD indeficue
+‘⁸ duas redies datam inter se rationem habentes.
+
+Fadium fit, et infleCiantur ΑΕ, ΒΕ ad rustam CD; igitur tangit punitum E qin-
+
+ 
+
+eumferentiam positione datam per Prop. 2. Lib. 2. Apollonii de locis planis. Idem
+vero panadium tangit restam CD positione datam, quare punstum E datum est.
+Qoniam vero ad compositionem requiritur ut circulus describatur qui locus fit
+punstorum E, atque ut circumferentia ipfius occurrat restae CD; ideo problema
+non erit in omni casu poffibile. Si vero acciderit circulum contingere rectam CD,
+unica erit problematis soluti0. Ratio autem ipsarum ΑΕ, ΒΕ quae efficiet ut circu-
+lus contingat restam CD ita invenietur. Puta fastum sc. contingat circulus cujus
+centrum est F restam CD in E, et jungatur FE; proportionales igitur sunt AF, FE,
+F B ut ex citata propofitione constat. Et quoniam datur angulus PCE, et datus est an-
+gulus reftus -FEC, specie dabitur triangulum CF E [40. Dat.]. Data igitur est ratio
+quadrati ex CF ad quadratum ex FE, hoc est ad rediangulum AFB. Et data suut
+punstaC, A, B. Ergo ad seffionem determinatam dedud‘tum est, sc. inveniendum est
+pum‘kum F quod faciat quadratum ex CF ad reCiangulum AFB in data ratione.
+'Componetur vero hoc ξτες a quovis in CB ρυηξὶο Η ducatur ad CD perpendi-
+cularis HI, et invento ριωᾶο F quod facit quadratum ex‘CF ad rediangulum AFB,
+-ut quadratum ex CH ad quadratum ex HI; inter AF, et BF media proportionalis
+sumatur <31²3 circulus centro F intervallo FG descriptus continget refiam CD; et
+’ ratio quaefita erit ea quam habet AF ad FG. Ducatur enipi FE perpendicularis ad
+CD, Et quoniam ex construfflone est quadratum ex CF ad restangulum AF B, hoc
+
+⁴ est ad quadratum ex PG, ut (quadratum ex CH ad quadratum ex HI, hoc est ut) -
+
+quadratumex CF ad quadratum ex FE, erit FG aequalis ipfi FE, et circulus de·
+scriptus centro F per punitum G tranfibit per Ε,θ et propterea continget reekam CD..
+

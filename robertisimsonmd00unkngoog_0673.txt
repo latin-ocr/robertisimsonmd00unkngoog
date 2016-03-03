@@ -1,0 +1,37 @@
+QUANTITATUM ET RATIONUM. 13
+
+igitur incrementum quadrati seu gnomon BNG aequale est
+reaangulo OH, erit BNG ad CL ut OH ad CL hoc est ut ΟΝ
+ad FC ; ex construetione vero· est ΟΝ minor Q, quare ratio
+OH ad CL, hoc est ratio incrementi quad-rati ad illud reflam-
+guli minor est ratione data Q ad FC: ergo per Def. 4. ratio
+OD hoc est CD bis ad CF, Limes est rationis distorum incre-'
+mentorum.
+
+Eadem vero ratio Limes erit rationis decoementorunr ut
+patet. QE. D.
+
+· Co R. Hinc fi tetstangulum ARSE datum habens latus AE-
+aequale fuerit quadrato AD, et augeantur vel diminuantur la-
+tera ita ut restangulum et quadratum semper inter se aequa-
+lia fint; ratio lateris quadrati CD bis ad datum restanguli
+latus CF Limes erit rationis incrementi lateris rectanguli ad
+inegementum lateris quadrati: nam augeatur latus quadrati
+AC et ipsum quadratum AD et fiat latus AG et quadratum
+AH, fit autem AV aequale ipfi AH quare· et RV aequale erit
+gnomoni CMK. Est autem per hanc propositionem ratio CD
+bis ad CF Limes rationis CMK ad CL, hoc est rationis RV ad
+CL, hoc est rationis RT ad CG, hoc est rationis-incrementi la-
+teris ree‘tanguli AR ad illud lateris quadrati AC. QE. D.
+
+PROP. VII.
+
+“ SINT duo reaangula ABCD, AEFD‚ quibus commune-la-
+‘⁶ tus est AD, latus vero ΑΕ. datum fit, et augeantur latera DA,
+
+“ DC reffls AG, CH et compleantur reetangula GDHK,
+
+· “ LBMK, AENG; sunt igitur AG, CH incrementa laterum
+
+ff DA, DC; et spatia ALH, AN incrementa reRangulorum
+

@@ -1,0 +1,36 @@
+DE PORISMATIBUS. 537
+P R O P. LXXXIII.
+
+Qae cst Fermatii quarta.
+
+‘⁴ SIT circulus cujus diameter AB pofit‘ione et magnitudine
+“ data est, et in AB data fint duo puncta aequaliter a centro
+“' distantia3 data erunt alia duo puncta a quibus fi ad cir-
+‘⁶ cumferentiam utcunque inflectantur duae rectae, abscin-
+“ dent hae ‚duo segmenta diametri datis punctis adjacentia,
+ιι quorum summa quadratorum da'ta erit.''
+
+CAs. 1. Qando duo puncta data sunt ipfius diametri ter·
+mini.
+
+Puta Porisma verum effe, atque puncta C, D ea effe quae Vide fig. in
+invenienda sunt. Igitur inflexis utcunque CE, DE ad circum·- fgeffigfae‘
+ferentiam in E, quae diametro AB in F, G punctis occurrant,
+summa quadratorum ex AG, FB, ex hypothefi porismatis, ae·-
+qualis erit spatio dato, Inflexis autem CA, DA ad terminum
+diametri, CA aufert nullum segmentum, DA vero aufert ip-
+
+· sum diametrum3 quare quadratum ex diametro est spatium
+illud datum cui summa quadratorum ex segmentis ab ipfis
+CE, DE, aliisve inflexis abscifliS, debet effe aequalis, Occur-
+rat altera infiexarum CE circumferentiae rursus in H, J unga-
+tur DH et producta occurrat ipfi AB in K. Qoniam igitur
+a punc'tis C, D inflexae sunt CH, DH ad circumferentiam,
+quae diametro AB in F, K occurrunt, erit, ex hypothefi, sum-
+ma quadratorum ex segmentis KA, FB aequalis spatio dato, ’
+quadrato scilicet ex AB, cui etiam summa quadratorum ex
+AG, FB est aequaIiS. Qadratum igitur ex ΑΚ aequale est
+quadra-to ex AG, ct recta ΑΚ aequalis ipfi AG. Manifestum
+
+ΥΠ
+

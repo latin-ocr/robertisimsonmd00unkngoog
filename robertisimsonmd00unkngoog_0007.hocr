@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./robertisimsonmd00unkngoog_0007.png"; bbox 0 0 4109 5609; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2684 22 4061 291">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2684 0 4061 291">
+     <span class='ocr_line' id='line_1_1' title="bbox 2684 22 4061 153; baseline -0.011 -29"><span class='ocrx_word' id='word_1_1' title='bbox 2684 26 2791 132; x_wconf 71' lang='lat' dir='ltr'><em>v.-</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2844 74 2908 118; x_wconf 54' lang='grc' dir='ltr'><strong><em>ψ</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2958 32 3333 131; x_wconf 55' lang='lat' dir='ltr'><em>yma-A</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 3364 24 3897 153; x_wconf 48' lang='lat' dir='ltr'><em>§Mamm</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 3926 22 4061 109; x_wconf 54' lang='grc'><em>9.,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2811 160 3716 291; baseline -0.008 -50"><span class='ocrx_word' id='word_1_6' title='bbox 2811 160 3027 255; x_wconf 57' lang='lat' dir='ltr'><em>md</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 3068 166 3519 291; x_wconf 56' lang='lat' dir='ltr'><em>&#39;&#39;⁷⁷‘st&#39;d’</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 3548 170 3716 243; x_wconf 72' lang='lat' dir='ltr'><em>sn.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

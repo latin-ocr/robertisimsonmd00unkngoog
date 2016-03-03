@@ -1,0 +1,34 @@
+DE LOGARITHMIS. αι
+
+FG ad GH, et HG ad GO major summa loga-rithmorum ra-
+tionum FG ad GH, et HG ad GK3 igitur, ablato communig
+logarithmus rationis HG ad GO major est logarithmo ratio-
+nis HG ad GK ; quare et ratio HG ad GO major est ratione
+, HG ad GK, quod fieri non potest ; igitur LM non minor est
+quam LN, et ostensa fuit non major3 aequalis igitur est LM
+ipfi LN.
+
+Co R. Idem Corollarium hinc sequitur, quod ex Prop. 5.
+ostensum est.
+
+PROP. IX.
+
+“ SI una ratio multiplicata fuerit alterius rationis, quam
+“ multiplicata est ea alterius», tam multiplex erit logarithmus
+‘⁸ ejus logarithmi alteriuS.”
+
+Sint enim AB, BC, BD, BE, ὅτε. deinceps proportionaleS,
+erunt igitur rationes primae ad secundam, secundae ad tertiss-
+am, &c. inter se eaedem3 quare et logarithmi earum sunt· in-
+ter se aequales», [Prop. 2. vel 3.] Sit FG legarithmus rationis
+AB ad BC, et GH
+logarithmus rati· A C D E B
+onis BC ad BD. -’“-“““““’-““““““““-“““““““““““““
+Qoniam igitur F G H K
+ratio AB ad BD, *hh—’-
+duplicata scilicet rationis AB ad B C, compofita est 'ex ·ra·--
+tionibus AB ad BC, et BC ad BD, erit logarith'rnus ratio-
+nis AB ad BD aequalis ipfi FH summae logarithmorum ra-
+
+tionum AB ad BC, et BC ad BD, [Prop.. 5, aut 6, 7, 8.·]· hoc·
+

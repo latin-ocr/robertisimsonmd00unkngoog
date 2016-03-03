@@ -1,0 +1,34 @@
+246 *DE sEcTIONE DETERMINATA
+
+pius est minus quadrato ex segment'o DB inter ipsum et reli- ’ ’
+
+quum pundmm B-minus dato, quam in ratione, quod fiet ope
+Prop...68. partis seilicet 2. Epitag'matis 3.
+
+..PROR VL'
+
+“ DATI S in reeta linea tribus -punffis-quartum invenire ex-
+“ tra ipsa ad utrasvis partes quod faciet ree‘tangulum a seg-
+“ mentis inter ipsum et duo quaevis ex punffls datis majus,
+“ aut minus quadrato ex segmento inter i'psum et reliquum
+‘⁶ pund’tum dat-um dato, quam in ratione, vel quod faciet
+‘⁶ refimngulum illud datum fimul cum eo ad quod quadra-
+·“ tum hoc datam habet rationem?
+
+PROP.LXXX1. PRORVI. E’PITAGMA 1. ⁵
+
+‘⁴ DATIS in „refia linea tribus punffls A, C, B quartum
+“ D invenire extra ipsa ad partes B. quod fac'iet re&angulum
+“ AD, DC a segmentis interipsum et duo punaa ab eo re-
+“ modom-majus, aut minus quadrato ex segmento DB inter
+, ‘⁶‘ ipsum et reliquum pundmm datum dato, quam in ratione,
+“ vel quod faciet re&angulum illud c'latum fimul cum eo ad
+·“ quod quadratum, hoc datam habet rationem.”
+
+PARS 1. Sit ree‘tangulum AD, DC majus quadrato ex DB
+dato, quam in ratione.
+
+CAs. 1. nando datum minus est reitangulo AB, BC; ad
+datam refiam AC applicetur reffangulum dato aequale exce-
+dens quadrato, fitque E punistum applicationis in AC pro·
+

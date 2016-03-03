@@ -1,0 +1,35 @@
+. DE PORISMATIBUS. 439
+
+igitur AC ad CD, ita BC ad CE, et permutand03 et quoniam
+aequales, sunt anguli ACB, DCE, erit triangulum DCE. fimile ‘
+
+{pfl ACB.
+
+CoR. Et ope hujus solvetur Porisma sequens, quod mihi
+ut Problema proposuit D. Gulielmus Trail, adolescens egre·-
+
+giuS, qui pro aetate multum in math‘efi profecit.
+P o R 1 s M Α. “ 'Datis positi-one duobus circulis DHF, EKG
+
+'¹⁵‘ quorum centra A, B; datum erit punCtum a quo fi ad cir-
+“ cumferentias ducantur duae restae angulum dato angulo
+“ aequalem comprehendenteS, continebunt ‘hae una cuni rec·-
+'“ ta quae ipsorum terminos jungit, quorum unus fit in con-
+“ cava, altera in convexa circumferentia, triangulum magni-
+“ tudine datum.”
+
+Puta C effe punctum inveniendum3 igitur fi ducantur CR,
+‘CE ad circumferentias datum facientes angulum, et jungatur
+RE, magnitudine datum erit, ex hypothefi, triangulum CRE.
+Et quoniam datus est angulus RCE trianguli CRE, rectangu-
+lum Re, GE datam habebit rationem ad triangulum CRE’per
+Cor. Prop. 62. Dat. edit.Glasg. et datum magnitudine est tri-
+angulum, quare redtangulum EG, GE datum est.
+
+Similiter fi ducantur aliae duae reetae CS, CG, datum os·- .
+tendetur reetangulum SC, CG, quod propterea aequale est ipsi
+Re, (3133 est igitur SC ad CR, ut EC ad CG, Occurrat RC
+circumferentiae rursus in D, et SC eidem in F, et propter cir-
+culum erit SC ad CR, ut CD ad CF3 quare ut DC ad CF, ita
+-est EC ad CG, Ostendetur autem, ut in hac Propofitione‚ effi:
+

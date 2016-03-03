@@ -1,0 +1,38 @@
+12 ·DEL1M1TIBUS
+
+“ decrementi quadrati ad incrementum vel decrementum
+“ redianguliss’
+
+Augeatur latus AC et fiat AG 3 et descripto super AG qua-
+
+drato AGHK‚ compleatur etiam reRangulum AELG, occur·
+rant vero GH, HK, ipfis BD,
+
+CD, in M, N; igitur gnomon
+BNG incrementum est qua-
+drati, et spatium CL incre-
+mentum est refianguli AF;
+fiat autem CO aequalis ipfi
+CD et compleatur restangu-
+lum COPG. Qoniam igitur
+rediangulum OH aequale est
+gnomoni BNG, ratio BNG ad
+rediangulum CL eadem erit ’
+rationi OH ad CL hoc est ra· -
+tioni restae ΟΝ ad ipsam FC3 est autem ΟΝ major OD, hoc
+est CD bis, quare ratio BNG incrementi quadrati ad CL in-
+crementum restanguli, (in omni casu quo latus commune au-
+getur) major est ratione lateris quadrati bis ad FC datum
+ree’tanguli latus· ’
+
+Ostendendum restat, rationem incrementorum quadrati et
+rectanguli poffe minorem fieri quavis ratione quae major est
+ratione CD bis ad FC. Sit enim quaevis ratio Q ad FC major
+ratione CD bis seu OD ad FC; igitur estQ major 0D3 pro-
+ducatur autem OD ad N ut ΟΝ minor fit ipsa Q) et per N
+ducatur NK parallela ipfi AC; super AK describatur quadra-
+
+’ tum AKHG, ‘et compleatur reikangulum ONHP: quoniam
+
+ 
+

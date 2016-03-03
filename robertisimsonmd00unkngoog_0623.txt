@@ -1,0 +1,47 @@
+{DE P=ORISMAT1BUS. 593
+
+’DM3 et, ex hypothesi, data est ratio quadrati ex LM ad
+*quadrata ex AD, DM, eadem scilicet rationi retstae a ad ip-
+·sam b. Data igitur est ratio quadrati ex GH ad KH, HN
+>restangfflum quod datumnstensum est; quare datum est qua-
+
+dratum ex GH, et resta GH et punstumG data erunt. Qod
+.fuit ostendendum.
+
+Componetur - ita.
+
+”Inveniatur ipfis CD, CF tertia proportionalis CH, et du·-
+*catur ad circumferentiam tedia ΗΡ ad angulos refios ipfi
+CH, et in ΗΡ ΓιιωαωτῬωιᾶιιω G,·ita·ut quadratum ‘ex GH
+fit ad quadratum ex ΗΡ, ut mdia a ad ipsam b. Erunt G,
+H punita quae invenienda sunt 3 hoc est, inflexis utcunque ab
+ipfis ad circumferentiam reffis· GK, HK, quae reetae AB
+occurrant in L, M, erit quadratum ex LM ad quadrata ex
+ΑΜ, ΜΒ fimul, ut redia a ad ipsam’b bis.
+
+Qoniam enim proportionales sunt CI), CF, CH, et per
+
+H dueta» est-KHM ad Γεᾶὶειω ΑΒ quae perpendicularis est ad
+
+CD, erit ⁰ MK ad KH,-ut MN ad NH; quare ut quadratum
+
+ex MK ad quadrat-um ex KH, hoc est ut quadratum ex LM
+
+ad illud ex GH, ita est ‘¹ restangulum KM, ’ ΜΝ hoc est rest-
+
+angulum -EDF, five quadratum ex AD, una· cum quadrato ex
+
+DM ad redtangulum KH, HN, hoc· estad quadratum ex PH,
+
+-et permutando, ut , quadratum ex L M ad quadrata ex AD,
+‘DM simul, ita est quadratum ex GH ad illud ex PH, etita,
+»ex construffione est tedia-a ad ipsam b. Est igitur quadratum
+·ex LM ad duplum quadratorum ex AD, DM, hoc est ad qua-
+
+drata ex. AM, ΜΒ fimul, ut rasta α ad ipsam-b bis. QED.
+,Ε f f f
+
+'‘ Prop. 87.
+
+*Ι Pr. 22· 6.
+

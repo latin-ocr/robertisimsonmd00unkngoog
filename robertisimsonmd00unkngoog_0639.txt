@@ -1,0 +1,43 @@
+DE 'LOGARITHMIS. 13.
+
+PROP. V.
+
+“ SI utraque duarum rationum composita fit ex rationibus
+“‘ radicalibus‚ utraque autem fit vel majoris ad minorem, vel
+'“ minoris ad majorem3 logarithmus rationis ex duabus hisce
+“ compofitae aequalis est summae logarithmorum rationum
+‘⁶ ex quibus est compofita.”
+
+Sint rationes FG ad GH, et HG ad GK ex quibus com-
+
+pofita est ragio FG ad GK. Numerus igitur rationum radica·-
+calium, ex quibus compofita est ratio
+
+FG ad GK, aequalis est numero ea· F H K G
+rundem ex quibus componitur ra- “““““““’““““““““““’“““““““
+tio FG ad GH una cum numero ea· K H F G
+
+rundem ex quibus componitur ratio
+
+HG ad GK; igitur, per Def. 2. logarithmus rationis FG· ad
+GK aequalis est summae logarithmorum rationum FG ad GH,
+e‘t HG ad GK.
+
+CoR. Si vero una ex rationibus fuerit majoris ad minorem,
+reliqua vero minoris ad majorem, erit logarithmus rationis ex
+‚hisce compositae aequalis excess'ui logarithmorum rationum
+ex quibus est compofita.
+
+CAs. 1. uando ratio FG ad GH, majoris scilicet ad mi·-
+norem, major est reciproca rationis
+reliquae HG ad GK; vel quando ra·— F K H G
+tio FG ad GH est minoris ad majo- -Α--ιψ
+rem, et reciproca ejus HG ad GF H K F G
+major est reliqua ratione HG ad GK. ⁹
+
+Qoniam enim ratio FG ad GH compofita est ex rationi-
+
+ 
+
+ 
+

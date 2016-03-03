@@ -1,0 +1,34 @@
+DE PORISMATIBUS. 333
+
+PROP. IV.
+
+“ SI reC'm AB pofitione et magnitudine data fuerit, et in ipsa
+“ prodmsta sumatur uteunque pumstum C, restangulum ΑΟ,
+’“ ΟΒ una cum spatio quodam dato, aequale erit quadrato ex
+‘⁶ segmento inter pundmm C et pumstum quoddam datum.”
+
+Sit Porisma verum, et dicatur spatium quod datum osten-
+dendum, five inveniendum est, S; fitque D punflmm inve-
+niendum. Igitur, ex hypothefi, restangulum AC, ΟΒ una
+cum spatio S aequale est quadrato ex DC. Rursus sumatur
+utcunque in AB produita aliud punRum E, et, ex hypothesi,
+restangulum AE, ΕΒ una cum spa· ⁴
+tio S aequale erit quadrato ex DE. F A D B E C
+Exceffus igitur reikanguli AC, CB
+supra ipsum AE, ΕΒ aequalis erit
+exceffui quadrati ex DC supra quadratum ex DE. Si anteiri
+fiat AF aequalis ipfi BE, excessus redtanguli AC, CB supra ip-
+sum AE, ΕΒ aequalis ⁸ est rediangulo FC, ΟΕ. Excefl'us vero ι v3d, infra.
+quadrati ex DC supra quadratum ex DE est b dupsmn reaan- b 4· ρ.
+gulum DE, ΕΟ una cum quadrato ex ΕΟ, quae propterea fi-
+mul aequalia sunt reaangulo FC, ΟΕ. Commune auferatur·
+quadratum ex EC, et restangulum DE, ΕΟ bis aequale erit
+restangulo FE, ΕΟ. Igitur DE bis aequalis est ipfi FE ς qnare
+
+⁸ Est Prop. 24. Lib. 7. Pappi. Bifariam secetur AB in D, et quoniam rest·
+angulum Ac, CB una cum quadrato ex DB, aequale est quadrato ex Dc, hoc
+est, reehugulo Fe, ΟΕ una cum quadrato ex DE, hoc est, una cum reehngu·
+lo AE, ΕΒ et quadrato ex ΠΒ. Commune auferatur quadratum ex ΠΒ, re·
+liquam igitur rectangulum Ac, CB aequale erit reaangulo Fe, ΟΕ, et rest-
+anguloAE, ΕΒ. .
+

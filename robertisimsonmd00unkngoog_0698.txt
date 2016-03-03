@@ -1,0 +1,37 @@
+⁴2 APPENDIX.
+
+rectangulo CA, AF aequale est reliquo duplo scilicet reeiangulo EC, CB nna cum
+dupio rectangulo BA, AC. Qoniam vero aequi-angula sunt triangula BFe, ADC,
+est FB ad BC, ut DA ad AC, et propterea rectangulum Ac, BF aequale est
+ipsi BC, DA. Et est BF ad ΡΑ, ut AD ad GH, igitur restangulum AC, BF est
+ad refrangulum CA, AF, ut restangulum BC, AD ad ipsum BC, (ΕΙ-13 est autem.
+
+ 
+
+refrangutum Ac, BF aequale ipfi BC, AD3 restangulum igitur CA, AF aequale est
+ipfi BC, Gi-I. Et quoniam est BF ad BA, ut AD ad CG, erit reciangulum CA, BF
+ad ipsum CA, AB, ut reeiangulum BC, AD ad ipsum BC, CG; est igitur rectan-
+gulam CA. AB aequale recl-angulo BC, CG. Ostensum autem fuit quadratum ex EC
+una cum duplo rec‘hmguio CA, AF aequale duplo restangulo EC, CB una cum du-
+plo ipsius CA, AB; igitur quadratum ex EC una cum duplo reaangulo BC, GH
+aequale est duplo restangulo Ec, CB una cum duplo ipfius BC, CG; et ablato
+communi, duplo scilicet ressangulo BC, GH, erit quadratum ex EC aequale duplo
+restangulo BC, EH. Data autem est reeta EC, et quia datae sunt CG, GH, data erit
+ΕΗ, quare data erit BC bafis trianguli ΑΒΘ. Et quoniam datus est BAC angulus,
+tangit pum‘lum A circumferentiam pofitione datam [Prop. 2. Lib. ι . Apollonii Loc.
+Plan] et quoniam altitudo AD data est tangit idem punctum A restam politione da-
+tarn [3 7 . Dat.]. Datum igitur est· punctum A, quare triangulum ABC politione da·
+tum cst.
+
+Qoniam vero ad consti-ustionem requiritur ut su pra inventam bafi'm BC descri-
+batur segmentum circuli capiens angulum dato angulo aequalem, et dueta CR ad
+festos angulos ipfi BC et dato perpendiculo aequali, ut parallela per R rectae BC oc·
+eurrat circumferentiae, quod non sernper fieri potest, ideo Problema non semper po·-
+test construi. Si vero parallela per R contingat circumferentiam unica erit solutius
+Dato vero anguio et data perimetm, triangulum et perpendicularis a dato angulo ad
+bafim, quae hoc efficient, ita invenientur. Puta fufium, fit scilicet triangulum KLC
+cujus angulus LKC aequalis est dato angulo BAC, et cujus perimeter aequalis est
+datae ΕΟ, ducatur ΚΜ perpendicularis ad bafim, et quoniam requiritur ut parallela
+basi LC dusta per K contingat circulum circa KLC triangulum descriptum, erit K
+vertex segmenti LKC; igitur aequales sunt restae LK, ΚΟ, et datus est angulus
+

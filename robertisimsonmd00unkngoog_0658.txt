@@ -1,0 +1,42 @@
+32⁴ DE LoGARITHMIS„
+
+atque ita regula praecedentis Casus huic etiam inservit.
+CAS. 2. Qandonumerus dividendus Β major est unitate,
+divisor vero D minor est unitate, et propterea quotiens M u·
+nitate major est. Logarithmus vero ipfius M aequalis erit
+summae logarithmorum dividendi Β et divisoris D„
+Sint enim ipsorum Β, D, M legarithmi EF, EH, EN; et
+quoniam est A ad M, ut D ad
+
+Β, erit logarithmus rationis . D A B M
+M a'dA,hoc est ipfiusM lo· ..........-..1.............-..........—...
+garithmus, aequalis loga· H E F N
+
+rithmo rationis D ad B. Est -·-··“-····-’-··-·-····-
+
+igitur EN, logarithmus sc. ipfius M, aequalis HF logarithmo
+sc. rationis D ad Β, [Prop. 1 1.] hoc est summae logarithmo- ,
+'rum EF, ΕΗ dividendi B et divisoris D.
+
+ι Et fi EH -logarithmus divisoris D habeat praefixum fibi
+fignum -, et auferatur ab EF logarithmo dividendi B, reli·
+quus erit HE -1- EF, hoc est HF3 atque ita regula Cas. 1. huic
+etiam inservit.
+
+CA s, 3. Qando uterque numerus minor est unitate.
+· ' Sit numerus dividendus D, et divisor sit K, qui primi> mi·-
+:nor fit quam D; igitur quotiens M major est unitate. Erit
+logarithmus ipfius M aequalis
+
+excefl'ui logarithmi divisoris K D A M
+-K supra logarithmum divi· ’““““““““““’““““““““““““““”“““““““
+dendi D. . L H E N
+’ simEH, EL‚EN1'‹>gatith- ’·-····---“---·
+
+ 
+
+mi numerorum D, K, M 3 et quoniam est ut A ad M, ita K
+ad D, erit logarithmus rationis M ad A, hoc est numeri M
+
+ 
+

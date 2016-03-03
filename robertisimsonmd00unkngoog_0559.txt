@@ -1,0 +1,40 @@
+DE PORISMATIBUS. 529
+
+dueta auferret quidem segmenta quae continent reeiangulum
+
+dato spatio aequale, non quidem a reif'tis CA, CD, sed a'b iis
+qui ipsis sunt in direstum.
+
+P R O P. LXXIX.
+Qae est Prop. 163. Lib. 7. Pappi, et Lemma ejus 38. et
+
+ultimum in Porismata Euclidis.
+
+“ PARALLELOGRAMMO AD positione dat0, a dato puncsto E
+
+“ ducere reblam lineam EF, et facere triangulum FCG paral-
+“ lelogrammo AD aequale.”
+
+Fadium jam fit3 quoniam igitur FCG triangulum aequale Vide fig. in
+est parallelogrammo AD, parallelogrammum vero AD d'u- {333ae-
+pium est trianguli Ano; et triangulum FCG trianguli Ano '
+duplum erit. Sed ut triangulum ad triangulum, quod circa
+eundem angulum ad C confistunt, ita redlangulum FC, CG
+ad' re&angulum AC, CD ³. Datum autem est restangulum ⁸ 69.hujus.
+AC, CD; igitur et ipsum FC, CG datum. Et a dato puntsto
+E ad rectas lineas AC, CD datas positione duesta est EF abscin-
+
+,dens “ rectas FC, CG quae continent” spatium aequale dato
+spati0, videlicet duplo ipsius AC, CD. Pofitione igitur “ data”
+est ipsa EF, per Prop. praecedentem.
+
+Componetur autem fic.
+
+Sit parallelogrammum quidem AD pofitione datum, da-‘
+tum autem pund’tum E3 et a punfim E ad FC, CD positione
+datas ducatur resta linea EF abscindens “ red'tas FC, CG quae
+continent” spatium FC, CG aequale dato spatio, videlicet du·
+plo ipfius AC, CD; et ex iisdem quae in resolutione dicia ·
+
+X x x·
+

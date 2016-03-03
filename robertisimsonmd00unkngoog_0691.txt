@@ -1,0 +1,35 @@
+QUANTITATUM ET RATIONUM. gr
+
+Ρ R O P. XVI.
+
+‘⁴ SI rationis AB ad BC, Limes fit ratio EF ad FG, et ratio-
+“ nis BC ad CD Limes fit ratio FG ad GH, utraque vero ra-
+
+“ tio augeatur vel minuatur. Erit ratio EF ad GH Limes
+“ rationis AB ad CD.”
+
+Utraque enim ratio minuatur et ex definitione Limitis ra·-
+tionis, erit ratio AB ad BC semper major ratione EF ad FG, et.
+ratio BC ad CD semper ma-
+jor ratione FG ad GH; A B C D
+igitur ex aequali, ratio AB ...-.-.-.......2....-..........-·...........-.....-
+ad CD semper major erit E F L G K H
+ratione EF ad GH: osten· .
+dendum vero restat, ratio· M
+nem AB ad CD minorem
+
+fieri poffe ratione quacunque data, quae major est ratione EF*
+
+ad GH. Sit ratio EF ad GK major ratione EF ad GH, est.
+igitur GH major GK: fiat ut ‚FG ad GH ita quaedam FL ad*
+GK, et quoniam GH major est GK, erit FG major FL (14. 5.)-
+Sumatur FM quae minor fit quam PG, major autem quam-
+FL3 erit igitur ratio EF ad ΡΜ major ratione EF ad FG, ras·-
+tio autem ΡΜ ad GK major erit ratione FL ad GK: quo·—
+‘niam vero rationis decrescentis AB ad BC Limes est ratio EF ⁴
+ad FG, poterit ratio AB ad BC minor fieri quacunque ratione*
+data, quae major est ratione EF ad FG 3 decrescat igitur ra-
+tio AB ad BC ut minor fiat ratione EF ad FM3 et quoniam=
+
+rationis decrescentis BC ad CD Limes est· ratio· FG ad. GH.
+

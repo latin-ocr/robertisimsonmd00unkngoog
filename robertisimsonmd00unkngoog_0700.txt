@@ -1,0 +1,38 @@
+-4' .A1›1²E·ND1X.
+
+et fi data altitudo CR aequalis fuerit altitudini KM trianguli LKC, erit LKC triau-
+gulum inveniendum, aliud enim quodvis triangulum datum habens angulum et da-
+tam petimen-um, minorem habet altitudinem τεξὶὲι ΚΜ. Si vero altitudo CR non
+aequalis fuerit ipsi KM, erit quam KM miuor; fit ita, et a quovis puncto N in recta
+ΝΡ ducatur NS ad rectos angulos ipfi ΟΡ, · ut vero NS ad NP, ita fiat CR ad CG, ·
+fiat etiam ut NS ad SP, ita CR ad GH.1pfi autem HE bis, et reciae EC, tertia pro-
+portionalis inveniatur CB, et super BC describatur segmentum circuli capiens angu-
+jum aequalem angulo NPO, et per R ducatur RA parallela ’restae BC; et quoniam RC'
+minor est quam ΚΜ, et propterea multo minor altitudine segmenti super BC descripti,
+
+ΚΑ uecess'ario circumferentiae hujus m duobus punctis occurret. Sit eorum alteru-
+‚trum punctum A, ct AB, AC jungantur, erit ABC triangulum quod inveniendum
+propositum erat. Angulus enim ΒΑΟ est dato angulo Nl'O aequalis», et si ducatur
+AD perpendicularis ad balim, erit AD aequalis altitudini. datae RC. Perimetrum
+
+ 
+
+autem trianguli ΑΒΟ aequalem effe datae rectae EC ita ostendetur. Ducatur BF per,-
+pendicularis ad ΟΛ, sunt igitur triangula BFA, NSP aequiangula, quare ut BF ad
+BA, ita cst (NS ad NP, et ita faeta fuit) CR five AD ad CG; et ut BF ad EA, ita
+est (NS ad SP, et ita facta fuit) AD ad GH. Igitur, ut in Analyst ostensum fuit, est
+rechingulum ΟΑ, AF aequale ipfi ΒΟ, GH; et reostangulum CA, AB aequale recff
+tangulo ΒΟ, CG. Est autem [7 . 2.] quadratum ex EC una cum quadrato ex CB
+aequale duplo refrangulo EC, CB una cum quadrato ex EB; et, ex constructione,
+quadratum ex EC aequale est duplo refiangulo EH, BC, et [ι 2. 2.] quadratum
+ex BC aequale est quadratis ex BA, AC una cum duplo rectangulo CA, AF, hoc est
+una cum duplo ipsius BC, GH. Duplum igitur refrangulnm EG, BC una cum qua·
+dratis ex BA, AC aequale est duplo reciangulo EC, ΟΒ una cum quadrato ex EB;
+auferatur commune, duplum scilicet reflangulum EC, CB, et reliquum, duplum sci„
+licet ret‘tztngulum BC, CG, hoc est duplum rectiangulum CA, AB, una cum quadra·
+tis ex BA, AC, hoc est [4. 2.] quadratum ex BA, AC tanquam ex una recia ae·
+quale erit quadrato ex ΕΒ. Igitur reciae BA, AC fimul aequales lunt reflae E13; ad·-
+datur communis ΒΟ, et perimeter trianguli ABC aequalis erit reoestae EC. QE. D.
+
+lisdem verbis fit anal) fis ct compositio quando ,angulus BAC est minor 1·er ope 13· a..
+

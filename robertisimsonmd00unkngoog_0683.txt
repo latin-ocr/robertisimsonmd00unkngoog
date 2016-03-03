@@ -1,0 +1,31 @@
+QUANT1TATUM ET RATION‘UM‘. 2⁴3⁴
+
+Ex. 2. Sit rec'tangulum A, B aequale quadrato ex C fint-
+que A, B, C, quantitates variabiles, et rationis incremento-
+rum ipsarum A, B Limes fit ratio α. ad β, rationis vero incre-
+mentorum ipsarum A, C Limes fit ratio α. ad γ. Aliud autem
+rectangulum fit D, E, cujus latus D est‚quantitas invariabilis„
+E vero variabilis 3 fitque ratio α ad ε Limes rationis incre-
+mentorum ipsarum A, E. Erit per Prop. 7. ratio Ass-ffla ad
+De Limes rationis incrementorum ipsorum A‚B, D,E: et per
+Prop. 6.- ratio 207 ad De Limes rationis incrementorum qua·-
+drati ex C et ipfius D,E; ergo per hanc erit Ass÷13a=2cy.
+
+PROP. X.
+
+⁸⁶ SINT rec'tae quotcunque A, B, C, D, E, F, deinceps pro·-
+“ portionales, quarum prima A data fit, anet& vero secund&
+“ B, augeantur fimul reliquae ita ut proportionales semper
+“ fint; et ratio quae Limes est rationis incrementorum pe-
+“ nultimae E et secundae B eadem fit rationi quam habet
+‘⁸ G, multiplex scilicet antepenultimae D, ad ipsam A3 fit·-
+“ que H eadem multiplex ipsius E atque G ipfius D. Erit
+“ ratio quae Limes est rationis incrementorum ultimae F et
+‘⁶ secundae B eadem rationi quam H et E fimul habent ad
+‘j‘ primam A.”
+
+Sit ratio quam habet K ad A Limes rationis quam habet
+incrementum ipfius F ad incrementum ipsius B; et ex hypo-
+thesi, ratio G ad A Limes est rationis incrementorum ipsa-
+rum E, B; erit H una cum E aequalis ipfi K.
+

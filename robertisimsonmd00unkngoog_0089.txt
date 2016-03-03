@@ -1,0 +1,35 @@
+LIBER PRIMUS.. 61
+
+EF, Qadratum igitur ex AC est ad quadratum ex CB, in
+data ratione quam habet tetsta DE ad ipsam EF.
+
+In utroque autem casu punCta ipfi B propiora majores fa·-
+ciunt rationes quam punCta remotiora 3 quod quidem, fi
+puneta fuerint inter A et B, manifestum est3 in casu vero al·-
+tero ita ostenditur. Sit punfflmm C extra pun& A, B, punc-
+tum vero H propius fit punem B quam est punstum C, ad eas·
+dem tamen partes- ipfius B. Est igitur ratio AB ad BH, major
+ratione AB ad BC, et componend0‚ ratio AH ad ΗΒ, major
+est ratione AC ad (2133 ergo et ratio quadrati ex AH ad qua-
+dratum ex ΗΒ, major. est ratione quadrati ex AC ad illud
+ex CB. ·
+
+PROB. 11.
+
+“ DATIS ‘duobus punffis tertium invenire in resta quae per
+“¹ illa tranfit, quod faciet tetstangulum contentum segmento
+‘⁴ ‘mter ipsum et‘ alt'erum ex punfiis datis, et data reaa, ad
+‘⁶ 'quadratum ex fitgmento inter ipsum et reliquum punctu&
+“ daturn3 in ratione'data.”
+
+PROP2XL11. PROB.II. EPITAGMA 1. ·
+
+‘⁶ DATIS duobus punfifis A, B tertium C invenire in reita
+‘⁴ quae per ea tramit, inter punCta data, quod faciet recitan-
+“ gulum contentum AC inter ipsum et utrumlibet ex punc-
+·‘ tis datis, et dat& resta D, ad quadratum ex reliquo segmen-
+“ to CB in ratione data.”.
+
+Pastum puta; fit scilicet restangulum AC, D ad quadra·-
+tum ex CB in ratione daia. Erit igitur, per 6 3. Dat. AC ad
+

@@ -1,0 +1,35 @@
+DE PORISMATIBUS. 437
+
+P R Ο P. XLVII.
+
+Qae est Porisma cui utilis est Prop. 148. et Prop. 150.
+Lib. 7. Pappi.
+
+“ SI in rasta linea AB sumatur pund’mm C, vel ‘mter A, B
+“ punRa, vel ‘m AB produd’ta 'ad utrasvis partes 3 datum erit
+“ in eadem redta quartum pundfflm D tale, ut in AB pro-
+“ dueta ad partes B sumpto quovis punfio E, quadratum ex
+“ segmento inter ipsum et puntstum inveniendum D, aequale
+“ erit quadrato ex segmento inter idem pund’tum E et punc-
+“ tum C, una cum quadrato ex segmento inter punfi‘tum in·-
+“ veniendum D et punctum A, et ressangulo a segmento in·-
+“ ter pun&um E et pumstum B, et data quadam restass’
+
+CAS. 1. Qando punstum C est inter A, B punCta. ,
+
+Puta verum effe Porisma, fitque D punstum, et F reeta quae
+invenienda sunt. Igitur fi sumatur utcunque pumRum E in
+AB produe'ta, erit, ex hypo- ⁸
+thefi, quadratum ex DE ae- G Α D H C BE
+quale quadratis ex CE, AD
+una cum redtangulo F, BE.
+
+Rursus sumatur punCtum B, vice puniti E, 'et, ex hypothefi,
+quadratum ex DB aequale erit quadratis CB, AD. Igitur
+exceffus quadrati ex DE supra quadratum ex DB aequalis erit
+exceffui quadratorum ex CE, CB una cum redtangulo F, BE3
+hoc est, fi fiat GD aequalis DB, et HC aequalis ipfi CB, erit ³· ⁸ 6. 2. ⁶
+restangulum GE, ΕΒ aequale red‘tangulo HE, ΕΒ una cum
+ipso F, BE. Resta igitur GE aequalis est ipfis HE, F fimu13
+et ablata communi HE, erit reliqua GH aequalis ipfi F. Qo-
+

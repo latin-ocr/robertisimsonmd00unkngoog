@@ -1,0 +1,35 @@
+’ DE PORISMATIBUS. 421
+
+P R O P. XXXVI.
+
+“ IISDEM manentibu5‚ fi praeterea a punctis B, D, in qui-
+“ bus refia BD parallelis occurrit inflectantur ad reflam quae
+“ per punsta A, C dudla est, aliae duae rectae ΒΗ, DH; fit-
+“ que L interfectio alterius ipsarum BH quae inflexa est a
+-“ punc‘to B in AB, et reciae CE quae inflexa est a puncto Cin
+-“ altera parallela CD, et sit K interfectio reliquarum inflexa-
+“ rum DH, AE3 junela KL parallela erit rectis paralleIiS.”
+
+Occurrant inflexae BH, DH parallelis in M, N punstis3 et
+quoniam a punstis B, D in rastis parallelis AB, CD inflexae
+sunt ad rea-<stam AC reciae BH, DH
+parallelis occurrentes in M, N, per
+Prop. 3 5. reclangulum AN, CM
+aequale erit reffiangulo AB, CD,
+cui aequale ostensum fuit recian-
+gulum GB, FD. Ut igitur FD ad
+NA, ita est MC ad GB, erge, prop-
+ter parallelaS, ut DK ad KN, ita
+ML ad LB; et componendo, ut
+DN ad NK, ita ΜΒ ad BL; ut vero HN ad ND, ita est ΗΒ
+ad BM; igitur, ex aequali, ut HN ad NK, ita ΗΒ ad BL.
+Parallela igitur est KL tetstae NB.
+
+ 
+
+P R O P. XXXVII.
+“ SI inter duas rectas lineas AB, CD ducantur duae teclae
+‘⁸ AC, BD, et a duobus harum terminis A, Β, qui sunt in. al·
+
+“ tera testarum AB, CD inflectantur ad reliquam CD duae
+

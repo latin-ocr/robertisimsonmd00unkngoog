@@ -1,0 +1,42 @@
+η DE LOGARI'I’HMIS.
+
+HG ad GN, quod fieri potest [Lem. 5.] 3 et fit ratio FG ad
+GO ea quae ex hisce composita proxime minor est ratione FG
+ad GH. Igitur ratio OG ad GP una est ex hisce rationibus,
+quae propterea minor est ratione HG ad GN, quare multo
+
+magis ratio HG ad GP minor est ratione HG ad GN, et erit
+GP major GN.
+
+[10. 5.] Ratio igi- F O H P N G
+tur FG ad GN ma· ........-.....—=..-.-=...a...s.......--
+jor est ratione FG K M L
+
+ad GP. Et quoni-
+
+am ratio FG ad GP compofita est ex rationibus radicalibuS,
+logarithmils rationis FG ad GN major erit eo· rationis FG ad
+GP [per Cas. 2.] et per eundem, logarithmus rationis FG ad
+GP major est logarithmo rationis FG ad GH. Multo igitur
+logarithmus rationis KL ad LM major est logarithmo rationis
+FG ad GH.
+
+CoR. 1. Et fi utraque ratio fuerit minoris ad majorem, erit
+logarithmus rationiS, cujus reciproca major est alterius reci-
+proca, major logarithmo alterius rationis.
+
+Co R. 2. Et fi una ratio fuerit majoris ad minorem, et reli·
+qua minoris ad majorem, erit logarithmus rationis quae vel
+cujus reciproca, fi fuerit minoris ad majorem, major est reli-
+qua vel ejusdem reciproca, fi fuerit reliqua minoris ad majo-
+rem, major erit logarithmo reliquae3 idem enim est logarith-
+mus rationis et ejus reciprocae, per Def. 3.
+
+Con. 3. Hinc logarithmus major est majoris, et minor est
+logarithmus minoris rationi3‚ fi scilicet utraque ratio fit ma-
+
+‘joris ad minorem3 vel, in aliis cafibus, sumendo rationes quae
+sunt reciprocae rationum minoris ad majorem.
+
+ 
+
